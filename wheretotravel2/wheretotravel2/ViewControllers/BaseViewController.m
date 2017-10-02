@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _backgroundColor = [UIColor flatLimeColor];
+    _myBackgroundColor = [UIColor flatLimeColor];
     // Do any additional setup after loading the view, typically from a nib.
-    self.view.backgroundColor = _backgroundColor;
+    self.view.backgroundColor = _myBackgroundColor;
 }
 
 

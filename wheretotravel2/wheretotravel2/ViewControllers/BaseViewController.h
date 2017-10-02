@@ -11,8 +11,7 @@
 
 @interface BaseViewController : UIViewController
 
-@property (nonatomic,strong) UIColor *backgroundColor;
+@property (nonatomic,strong) UIColor *myBackgroundColor;
 
-@property (nonatomic, strong) UIImage *gradientImage;
 @end
 
