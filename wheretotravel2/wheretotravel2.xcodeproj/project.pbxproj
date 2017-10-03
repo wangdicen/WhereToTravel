@@ -15,6 +15,174 @@
 		AC4114A11F8287D8005F898A /* UIView+UIViewRoundCorners.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4114A01F8287D8005F898A /* UIView+UIViewRoundCorners.m */; };
 		AC4114A41F828E8F005F898A /* MyCities.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4114A31F828E8F005F898A /* MyCities.m */; };
 		AC4114A71F829A02005F898A /* DeviceJuage.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4114A61F829A02005F898A /* DeviceJuage.m */; };
+		AC4114AE1F834087005F898A /* MyTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4114AD1F834087005F898A /* MyTitleView.m */; };
+		AC4115661F8350EB005F898A /* 0002_file.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115551F8350C9005F898A /* 0002_file.png */; };
+		AC4115671F8350EB005F898A /* 0002_file@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115561F8350C9005F898A /* 0002_file@2x.png */; };
+		AC4115681F8350EB005F898A /* 0005_bookmark-open.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115571F8350C9005F898A /* 0005_bookmark-open.png */; };
+		AC4115691F8350EB005F898A /* 0007_date.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115581F8350C9005F898A /* 0007_date.png */; };
+		AC41156A1F8350EB005F898A /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115591F8350C9005F898A /* 120.png */; };
+		AC41156B1F8350EB005F898A /* btn_close.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155A1F8350C9005F898A /* btn_close.png */; };
+		AC41156C1F8350EB005F898A /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155B1F8350C9005F898A /* icon1.png */; };
+		AC41156D1F8350EB005F898A /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155C1F8350C9005F898A /* icon2.png */; };
+		AC41156E1F8350EB005F898A /* kuang.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155D1F8350C9005F898A /* kuang.png */; };
+		AC41156F1F8350EB005F898A /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155E1F8350C9005F898A /* loading.png */; };
+		AC4115701F8350EB005F898A /* mountains.png in Resources */ = {isa = PBXBuildFile; fileRef = AC41155F1F8350C9005F898A /* mountains.png */; };
+		AC4115711F8350EB005F898A /* pengyouquan.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115601F8350C9005F898A /* pengyouquan.png */; };
+		AC4115721F8350EB005F898A /* preview.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115611F8350C9005F898A /* preview.png */; };
+		AC4115731F835101005F898A /* sunny.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115631F8350C9005F898A /* sunny.png */; };
+		AC4115741F835101005F898A /* sunny@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115641F8350C9005F898A /* sunny@2x.png */; };
+		AC4115751F83510E005F898A /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41154B1F8350C9005F898A /* 1.jpg */; };
+		AC4115761F83510E005F898A /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41154C1F8350C9005F898A /* 2.jpg */; };
+		AC4115771F83510E005F898A /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41154D1F8350C9005F898A /* 3.jpg */; };
+		AC4115781F83510E005F898A /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41154E1F8350C9005F898A /* 4.jpg */; };
+		AC4115791F83510E005F898A /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41154F1F8350C9005F898A /* 5.jpg */; };
+		AC41157A1F83510E005F898A /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115501F8350C9005F898A /* 6.jpg */; };
+		AC41157B1F83510E005F898A /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115511F8350C9005F898A /* 7.jpg */; };
+		AC41157C1F83510E005F898A /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115521F8350C9005F898A /* 8.jpg */; };
+		AC41157D1F83510E005F898A /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115531F8350C9005F898A /* 9.jpg */; };
+		AC41157E1F835117005F898A /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115411F8350C9005F898A /* 0.png */; };
+		AC41157F1F835117005F898A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115421F8350C9005F898A /* 1.png */; };
+		AC4115801F835117005F898A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115431F8350C9005F898A /* 2.png */; };
+		AC4115811F835117005F898A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115441F8350C9005F898A /* 3.png */; };
+		AC4115821F835117005F898A /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115451F8350C9005F898A /* 4.png */; };
+		AC4115831F835117005F898A /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115461F8350C9005F898A /* 5.png */; };
+		AC4115841F835117005F898A /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = AC4115471F8350C9005F898A /* 6.png */; };
+		AC4115851F83518D005F898A /* aersan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B41F8350C9005F898A /* aersan.jpg */; };
+		AC4115861F83518D005F898A /* agenting.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B51F8350C9005F898A /* agenting.jpg */; };
+		AC4115871F83518D005F898A /* aomen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B61F8350C9005F898A /* aomen.jpg */; };
+		AC4115881F83518D005F898A /* bali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B71F8350C9005F898A /* bali.jpg */; };
+		AC4115891F83518D005F898A /* bamei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B81F8350C9005F898A /* bamei.jpg */; };
+		AC41158A1F83518D005F898A /* beihai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114B91F8350C9005F898A /* beihai.jpg */; };
+		AC41158B1F83518D005F898A /* beihaidao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BA1F8350C9005F898A /* beihaidao.jpg */; };
+		AC41158C1F83518D005F898A /* beijing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BB1F8350C9005F898A /* beijing.jpg */; };
+		AC41158D1F83518D005F898A /* budalagong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BC1F8350C9005F898A /* budalagong.jpg */; };
+		AC41158E1F83518D005F898A /* cangyuan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BD1F8350C9005F898A /* cangyuan.jpg */; };
+		AC41158F1F83518D005F898A /* chengdu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BE1F8350C9005F898A /* chengdu.jpg */; };
+		AC4115901F83518D005F898A /* chongqing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114BF1F8350C9005F898A /* chongqing.jpg */; };
+		AC4115911F83518D005F898A /* chunribu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C01F8350C9005F898A /* chunribu.jpg */; };
+		AC4115921F83518D005F898A /* cixi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C11F8350C9005F898A /* cixi.jpg */; };
+		AC4115931F83518D005F898A /* daban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C21F8350C9005F898A /* daban.jpg */; };
+		AC4115941F83518D005F898A /* dabaojiao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C31F8350C9005F898A /* dabaojiao.jpg */; };
+		AC4115951F83518D005F898A /* dali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C41F8350C9005F898A /* dali.jpg */; };
+		AC4115961F83518D005F898A /* daocheng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C51F8350C9005F898A /* daocheng.jpg */; };
+		AC4115971F83518D005F898A /* dibai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C61F8350C9005F898A /* dibai.jpg */; };
+		AC4115981F83518D005F898A /* dongjidao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C71F8350C9005F898A /* dongjidao.jpg */; };
+		AC4115991F83518D005F898A /* dongjin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C81F8350C9005F898A /* dongjin.jpg */; };
+		AC41159A1F83518D005F898A /* eguaduoer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114C91F8350C9005F898A /* eguaduoer.jpg */; };
+		AC41159B1F83518D005F898A /* emei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CA1F8350C9005F898A /* emei.jpg */; };
+		AC41159C1F83518D005F898A /* enshi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CB1F8350C9005F898A /* enshi.jpg */; };
+		AC41159D1F83518D005F898A /* enshidaxiagu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CC1F8350C9005F898A /* enshidaxiagu.jpg */; };
+		AC41159E1F83518D005F898A /* fuhuojiedao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CD1F8350C9005F898A /* fuhuojiedao.jpg */; };
+		AC41159F1F83518D005F898A /* fusan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CE1F8350C9005F898A /* fusan.jpg */; };
+		AC4115A01F83518D005F898A /* gana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114CF1F8350C9005F898A /* gana.jpg */; };
+		AC4115A11F83518D005F898A /* guangzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D01F8350C9005F898A /* guangzhou.jpg */; };
+		AC4115A21F83518D005F898A /* haerbing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D11F8350C9005F898A /* haerbing.jpg */; };
+		AC4115A31F83518D005F898A /* hangzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D21F8350C9005F898A /* hangzhou.jpg */; };
+		AC4115A41F83518D005F898A /* hemu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D31F8350C9005F898A /* hemu.jpg */; };
+		AC4115A51F83518D005F898A /* hengsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D41F8350C9005F898A /* hengsan.jpg */; };
+		AC4115A61F83518D005F898A /* huachengdun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D51F8350C9005F898A /* huachengdun.jpg */; };
+		AC4115A71F83518D005F898A /* huangjinghaian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D61F8350C9005F898A /* huangjinghaian.jpg */; };
+		AC4115A81F83518D005F898A /* huangsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D71F8350C9005F898A /* huangsan.jpg */; };
+		AC4115A91F83518D005F898A /* huaniaodao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D81F8350C9005F898A /* huaniaodao.jpg */; };
+		AC4115AA1F83518D005F898A /* huhehaote.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114D91F8350C9005F898A /* huhehaote.jpg */; };
+		AC4115AB1F83518D005F898A /* hukoupubu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DA1F8350C9005F898A /* hukoupubu.jpg */; };
+		AC4115AC1F83518D005F898A /* jianqiao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DB1F8350C9005F898A /* jianqiao.jpg */; };
+		AC4115AD1F83518D005F898A /* jinan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DC1F8350C9005F898A /* jinan.jpg */; };
+		AC4115AE1F83518D005F898A /* jingdu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DD1F8350C9005F898A /* jingdu.jpg */; };
+		AC4115AF1F83518D005F898A /* jisha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DE1F8350C9005F898A /* jisha.jpg */; };
+		AC4115B01F83518D005F898A /* jiujinsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114DF1F8350C9005F898A /* jiujinsan.jpg */; };
+		AC4115B11F83518D005F898A /* jiuzhaigou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E01F8350C9005F898A /* jiuzhaigou.jpg */; };
+		AC4115B21F83518D005F898A /* jizhoudao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E11F8350C9005F898A /* jizhoudao.jpg */; };
+		AC4115B31F83518D005F898A /* kaifeng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E21F8350C9005F898A /* kaifeng.jpg */; };
+		AC4115B41F83518D005F898A /* kailuo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E31F8350C9005F898A /* kailuo.jpg */; };
+		AC4115B51F83518D005F898A /* kekexili.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E41F8350C9005F898A /* kekexili.jpg */; };
+		AC4115B61F83518D005F898A /* keluoladuo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E51F8350C9005F898A /* keluoladuo.jpg */; };
+		AC4115B71F83518D005F898A /* kunming.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E61F8350C9005F898A /* kunming.jpg */; };
+		AC4115B81F83518D005F898A /* lanzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E71F8350C9005F898A /* lanzhou.jpg */; };
+		AC4115B91F83518D005F898A /* lasa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E81F8350C9005F898A /* lasa.jpg */; };
+		AC4115BA1F83518D005F898A /* lasiweijiasi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114E91F8350C9005F898A /* lasiweijiasi.jpg */; };
+		AC4115BB1F83518D005F898A /* lijiang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114EA1F8350C9005F898A /* lijiang.jpg */; };
+		AC4115BC1F83518D005F898A /* lijiang1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114EB1F8350C9005F898A /* lijiang1.jpg */; };
+		AC4115BD1F83518D005F898A /* liyuereneilu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114EC1F8350C9005F898A /* liyuereneilu.jpg */; };
+		AC4115BE1F83518D005F898A /* lundun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114ED1F8350C9005F898A /* lundun.jpg */; };
+		AC4115BF1F83518D005F898A /* luoma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114EE1F8350C9005F898A /* luoma.jpg */; };
+		AC4115C01F83518D005F898A /* luosanji.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114EF1F8350C9005F898A /* luosanji.jpg */; };
+		AC4115C11F83518D005F898A /* luoyang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F01F8350C9005F898A /* luoyang.jpg */; };
+		AC4115C21F83518D005F898A /* madeli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F11F8350C9005F898A /* madeli.jpg */; };
+		AC4115C31F83518D005F898A /* maerdaifu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F21F8350C9005F898A /* maerdaifu.jpg */; };
+		AC4115C41F83518D005F898A /* mahu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F31F8350C9005F898A /* mahu.jpg */; };
+		AC4115C51F83518D005F898A /* malaixiya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F41F8350C9005F898A /* malaixiya.jpg */; };
+		AC4115C61F83518D005F898A /* mangu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F51F8350C9005F898A /* mangu.jpg */; };
+		AC4115C71F83518D005F898A /* meiguo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F61F8350C9005F898A /* meiguo1.jpg */; };
+		AC4115C81F83518D005F898A /* meizhoudao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F71F8350C9005F898A /* meizhoudao.jpg */; };
+		AC4115C91F83518D005F898A /* mengmai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F81F8350C9005F898A /* mengmai.jpg */; };
+		AC4115CA1F83518D005F898A /* milan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114F91F8350C9005F898A /* milan.jpg */; };
+		AC4115CB1F83518D005F898A /* moerben.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FA1F8350C9005F898A /* moerben.jpg */; };
+		AC4115CC1F83518D005F898A /* mogaoku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FB1F8350C9005F898A /* mogaoku.jpg */; };
+		AC4115CD1F83518D005F898A /* mosike.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FC1F8350C9005F898A /* mosike.jpg */; };
+		AC4115CE1F83518D005F898A /* nanjing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FD1F8350C9005F898A /* nanjing.jpg */; };
+		AC4115CF1F83518D005F898A /* niboer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FE1F8350C9005F898A /* niboer.jpg */; };
+		AC4115D01F83518D005F898A /* niuyue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4114FF1F8350C9005F898A /* niuyue.jpg */; };
+		AC4115D11F83518D005F898A /* pujidao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115001F8350C9005F898A /* pujidao.jpg */; };
+		AC4115D21F83518D005F898A /* puluowangsi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115011F8350C9005F898A /* puluowangsi.jpg */; };
+		AC4115D31F83518D005F898A /* qiantongguzheng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115021F8350C9005F898A /* qiantongguzheng.jpg */; };
+		AC4115D41F83518D005F898A /* qingdao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115031F8350C9005F898A /* qingdao.jpg */; };
+		AC4115D51F83518D005F898A /* qingmai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115041F8350C9005F898A /* qingmai.jpg */; };
+		AC4115D61F83518D005F898A /* qinhuangdao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115051F8350C9005F898A /* qinhuangdao.jpg */; };
+		AC4115D71F83518D005F898A /* qizanggou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115061F8350C9005F898A /* qizanggou.jpg */; };
+		AC4115D81F83518D005F898A /* riben1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115071F8350C9005F898A /* riben1.jpg */; };
+		AC4115D91F83518D005F898A /* sanya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115081F8350C9005F898A /* sanya.jpg */; };
+		AC4115DA1F83518D005F898A /* seda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115091F8350C9005F898A /* seda.jpg */; };
+		AC4115DB1F83518D005F898A /* seda1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150A1F8350C9005F898A /* seda1.jpg */; };
+		AC4115DC1F83518D005F898A /* shanghai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150B1F8350C9005F898A /* shanghai.jpg */; };
+		AC4115DD1F83518D005F898A /* shanghai1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150C1F8350C9005F898A /* shanghai1.jpg */; };
+		AC4115DE1F83518D005F898A /* shennongjia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150D1F8350C9005F898A /* shennongjia.jpg */; };
+		AC4115DF1F83518D005F898A /* shenzhen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150E1F8350C9005F898A /* shenzhen.jpg */; };
+		AC4115E01F83518D005F898A /* shouer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41150F1F8350C9005F898A /* shouer.jpg */; };
+		AC4115E11F83518D005F898A /* shunanzhuhai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115101F8350C9005F898A /* shunanzhuhai.jpg */; };
+		AC4115E21F83518D005F898A /* sililanka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115111F8350C9005F898A /* sililanka.jpg */; };
+		AC4115E31F83518D005F898A /* songsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115121F8350C9005F898A /* songsan.jpg */; };
+		AC4115E41F83518D005F898A /* suzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115131F8350C9005F898A /* suzhou.jpg */; };
+		AC4115E51F83518D005F898A /* taibei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115141F8350C9005F898A /* taibei.jpg */; };
+		AC4115E61F83518D005F898A /* taisan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115151F8350C9005F898A /* taisan.jpg */; };
+		AC4115E71F83518D005F898A /* tamendao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115161F8350C9005F898A /* tamendao.jpg */; };
+		AC4115E81F83518D005F898A /* tangan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115171F8350C9005F898A /* tangan.jpg */; };
+		AC4115E91F83518D005F898A /* tengwangge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115181F8350C9005F898A /* tengwangge.jpg */; };
+		AC4115EA1F83518D005F898A /* tianjin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115191F8350C9005F898A /* tianjin.jpg */; };
+		AC4115EB1F83518D005F898A /* titian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151A1F8350C9005F898A /* titian.jpg */; };
+		AC4115EC1F83518D005F898A /* tulufan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151B1F8350C9005F898A /* tulufan.jpg */; };
+		AC4115ED1F83518D005F898A /* weinisi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151C1F8350C9005F898A /* weinisi.jpg */; };
+		AC4115EE1F83518D005F898A /* wengehua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151D1F8350C9005F898A /* wengehua.jpg */; };
+		AC4115EF1F83518D005F898A /* wudangsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151E1F8350C9005F898A /* wudangsan.jpg */; };
+		AC4115F01F83518D005F898A /* wugongsan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41151F1F8350C9005F898A /* wugongsan.jpg */; };
+		AC4115F11F83518D005F898A /* wuhan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115201F8350C9005F898A /* wuhan.jpg */; };
+		AC4115F21F83518D005F898A /* wulong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115211F8350C9005F898A /* wulong.jpg */; };
+		AC4115F31F83518D005F898A /* wulumuqi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115221F8350C9005F898A /* wulumuqi.jpeg */; };
+		AC4115F41F83518D005F898A /* wulumuqi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115231F8350C9005F898A /* wulumuqi.jpg */; };
+		AC4115F51F83518D005F898A /* wuyisan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115241F8350C9005F898A /* wuyisan.jpg */; };
+		AC4115F61F83518D005F898A /* wuzheng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115251F8350C9005F898A /* wuzheng.jpg */; };
+		AC4115F71F83518D005F898A /* xian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115261F8350C9005F898A /* xian.jpg */; };
+		AC4115F81F83518D005F898A /* xianggang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115271F8350C9005F898A /* xianggang.jpg */; };
+		AC4115F91F83518D005F898A /* xianggelila.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115281F8350C9005F898A /* xianggelila.jpg */; };
+		AC4115FA1F83518D005F898A /* xiangyang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115291F8350C9005F898A /* xiangyang.jpg */; };
+		AC4115FB1F83518D005F898A /* xiaweiyi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152A1F8350C9005F898A /* xiaweiyi.jpg */; };
+		AC4115FC1F83518D005F898A /* xindeli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152B1F8350C9005F898A /* xindeli.jpg */; };
+		AC4115FD1F83518D005F898A /* xingjiapo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152C1F8350C9005F898A /* xingjiapo.jpg */; };
+		AC4115FE1F83518D005F898A /* xini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152D1F8350C9005F898A /* xini.jpg */; };
+		AC4115FF1F83518D005F898A /* xishuangbanna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152E1F8350C9005F898A /* xishuangbanna.jpg */; };
+		AC4116001F83518D005F898A /* xiyatu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC41152F1F8350C9005F898A /* xiyatu.jpg */; };
+		AC4116011F83518D005F898A /* xuexiang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115301F8350C9005F898A /* xuexiang.jpg */; };
+		AC4116021F83518D005F898A /* yadian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115311F8350C9005F898A /* yadian.jpg */; };
+		AC4116031F83518D005F898A /* yalisanda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115321F8350C9005F898A /* yalisanda.jpg */; };
+		AC4116041F83518D005F898A /* yaluzangpujiang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115331F8350C9005F898A /* yaluzangpujiang.jpg */; };
+		AC4116051F83518D005F898A /* yangzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115341F8350C9005F898A /* yangzhou.jpg */; };
+		AC4116061F83518D005F898A /* yingchuan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115351F8350C9005F898A /* yingchuan.jpg */; };
+		AC4116071F83518D005F898A /* yuenan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115361F8350C9005F898A /* yuenan.jpg */; };
+		AC4116081F83518D005F898A /* yusandao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115371F8350C9005F898A /* yusandao.jpg */; };
+		AC4116091F83518D005F898A /* zhangjiajie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC4115381F8350C9005F898A /* zhangjiajie.jpg */; };
+		AC41160A1F83523B005F898A /* 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC41153D1F8350C9005F898A /* 2.ttf */; };
+		AC41160B1F83523B005F898A /* 3.otf in Resources */ = {isa = PBXBuildFile; fileRef = AC41153E1F8350C9005F898A /* 3.otf */; };
+		AC41160C1F83523B005F898A /* 小汪.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC41153F1F8350C9005F898A /* 小汪.ttf */; };
 		ACFE20781F813CB200E873F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACFE20771F813CB200E873F0 /* AppDelegate.m */; };
 		ACFE207B1F813CB200E873F0 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACFE207A1F813CB200E873F0 /* BaseViewController.m */; };
 		ACFE20801F813CB200E873F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACFE207F1F813CB200E873F0 /* Assets.xcassets */; };
@@ -59,176 +227,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		AC4113D61F826CA2005F898A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		AC4113D81F826CA2005F898A /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
-		AC4113D91F826CA2005F898A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		AC4113DA1F826CA2005F898A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		AC4113DB1F826CA2005F898A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
-		AC4113DC1F826CA2005F898A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
-		AC4113DD1F826CA2005F898A /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
-		AC4113DE1F826CA2005F898A /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
-		AC4113E01F826CA2005F898A /* aersan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aersan.jpg; sourceTree = "<group>"; };
-		AC4113E11F826CA2005F898A /* agenting.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = agenting.jpg; sourceTree = "<group>"; };
-		AC4113E21F826CA2005F898A /* aomen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aomen.jpg; sourceTree = "<group>"; };
-		AC4113E31F826CA2005F898A /* bali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bali.jpg; sourceTree = "<group>"; };
-		AC4113E41F826CA2005F898A /* bamei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bamei.jpg; sourceTree = "<group>"; };
-		AC4113E51F826CA2005F898A /* beihai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beihai.jpg; sourceTree = "<group>"; };
-		AC4113E61F826CA2005F898A /* beihaidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beihaidao.jpg; sourceTree = "<group>"; };
-		AC4113E71F826CA2005F898A /* beijing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beijing.jpg; sourceTree = "<group>"; };
-		AC4113E81F826CA2005F898A /* budalagong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = budalagong.jpg; sourceTree = "<group>"; };
-		AC4113E91F826CA2005F898A /* cangyuan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cangyuan.jpg; sourceTree = "<group>"; };
-		AC4113EA1F826CA2005F898A /* chengdu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chengdu.jpg; sourceTree = "<group>"; };
-		AC4113EB1F826CA2005F898A /* chongqing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chongqing.jpg; sourceTree = "<group>"; };
-		AC4113EC1F826CA2005F898A /* chunribu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chunribu.jpg; sourceTree = "<group>"; };
-		AC4113ED1F826CA2005F898A /* cixi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cixi.jpg; sourceTree = "<group>"; };
-		AC4113EE1F826CA2005F898A /* daban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daban.jpg; sourceTree = "<group>"; };
-		AC4113EF1F826CA2005F898A /* dabaojiao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dabaojiao.jpg; sourceTree = "<group>"; };
-		AC4113F01F826CA2005F898A /* dali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dali.jpg; sourceTree = "<group>"; };
-		AC4113F11F826CA2005F898A /* daocheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daocheng.jpg; sourceTree = "<group>"; };
-		AC4113F21F826CA2005F898A /* dibai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dibai.jpg; sourceTree = "<group>"; };
-		AC4113F31F826CA2005F898A /* dongjidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dongjidao.jpg; sourceTree = "<group>"; };
-		AC4113F41F826CA2005F898A /* dongjin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dongjin.jpg; sourceTree = "<group>"; };
-		AC4113F51F826CA2005F898A /* eguaduoer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eguaduoer.jpg; sourceTree = "<group>"; };
-		AC4113F61F826CA2005F898A /* emei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = emei.jpg; sourceTree = "<group>"; };
-		AC4113F71F826CA2005F898A /* enshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = enshi.jpg; sourceTree = "<group>"; };
-		AC4113F81F826CA2005F898A /* enshidaxiagu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = enshidaxiagu.jpg; sourceTree = "<group>"; };
-		AC4113F91F826CA2005F898A /* fuhuojiedao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fuhuojiedao.jpg; sourceTree = "<group>"; };
-		AC4113FA1F826CA2005F898A /* fusan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fusan.jpg; sourceTree = "<group>"; };
-		AC4113FB1F826CA2005F898A /* gana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gana.jpg; sourceTree = "<group>"; };
-		AC4113FC1F826CA2005F898A /* guangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guangzhou.jpg; sourceTree = "<group>"; };
-		AC4113FD1F826CA2005F898A /* haerbing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haerbing.jpg; sourceTree = "<group>"; };
-		AC4113FE1F826CA2005F898A /* hangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hangzhou.jpg; sourceTree = "<group>"; };
-		AC4113FF1F826CA2005F898A /* hemu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hemu.jpg; sourceTree = "<group>"; };
-		AC4114001F826CA2005F898A /* hengsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hengsan.jpg; sourceTree = "<group>"; };
-		AC4114011F826CA2005F898A /* huachengdun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huachengdun.jpg; sourceTree = "<group>"; };
-		AC4114021F826CA2005F898A /* huangjinghaian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huangjinghaian.jpg; sourceTree = "<group>"; };
-		AC4114031F826CA2005F898A /* huangsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huangsan.jpg; sourceTree = "<group>"; };
-		AC4114041F826CA2005F898A /* huaniaodao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huaniaodao.jpg; sourceTree = "<group>"; };
-		AC4114051F826CA2005F898A /* huhehaote.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huhehaote.jpg; sourceTree = "<group>"; };
-		AC4114061F826CA2005F898A /* hukoupubu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hukoupubu.jpg; sourceTree = "<group>"; };
-		AC4114071F826CA2005F898A /* jianqiao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jianqiao.jpg; sourceTree = "<group>"; };
-		AC4114081F826CA2005F898A /* jinan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jinan.jpg; sourceTree = "<group>"; };
-		AC4114091F826CA2005F898A /* jingdu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jingdu.jpg; sourceTree = "<group>"; };
-		AC41140A1F826CA2005F898A /* jisha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jisha.jpg; sourceTree = "<group>"; };
-		AC41140B1F826CA2005F898A /* jiujinsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jiujinsan.jpg; sourceTree = "<group>"; };
-		AC41140C1F826CA2005F898A /* jiuzhaigou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jiuzhaigou.jpg; sourceTree = "<group>"; };
-		AC41140D1F826CA2005F898A /* jizhoudao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jizhoudao.jpg; sourceTree = "<group>"; };
-		AC41140E1F826CA2005F898A /* kaifeng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kaifeng.jpg; sourceTree = "<group>"; };
-		AC41140F1F826CA2005F898A /* kailuo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kailuo.jpg; sourceTree = "<group>"; };
-		AC4114101F826CA2005F898A /* kekexili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kekexili.jpg; sourceTree = "<group>"; };
-		AC4114111F826CA2005F898A /* keluoladuo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = keluoladuo.jpg; sourceTree = "<group>"; };
-		AC4114121F826CA2005F898A /* kunming.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kunming.jpg; sourceTree = "<group>"; };
-		AC4114131F826CA2005F898A /* lanzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lanzhou.jpg; sourceTree = "<group>"; };
-		AC4114141F826CA2005F898A /* lasa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lasa.jpg; sourceTree = "<group>"; };
-		AC4114151F826CA2005F898A /* lasiweijiasi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lasiweijiasi.jpg; sourceTree = "<group>"; };
-		AC4114161F826CA2005F898A /* lijiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lijiang.jpg; sourceTree = "<group>"; };
-		AC4114171F826CA2005F898A /* lijiang1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lijiang1.jpg; sourceTree = "<group>"; };
-		AC4114181F826CA2005F898A /* liyuereneilu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = liyuereneilu.jpg; sourceTree = "<group>"; };
-		AC4114191F826CA2005F898A /* lundun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lundun.jpg; sourceTree = "<group>"; };
-		AC41141A1F826CA2005F898A /* luoma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luoma.jpg; sourceTree = "<group>"; };
-		AC41141B1F826CA2005F898A /* luosanji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luosanji.jpg; sourceTree = "<group>"; };
-		AC41141C1F826CA2005F898A /* luoyang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luoyang.jpg; sourceTree = "<group>"; };
-		AC41141D1F826CA2005F898A /* madeli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = madeli.jpg; sourceTree = "<group>"; };
-		AC41141E1F826CA2005F898A /* maerdaifu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maerdaifu.jpg; sourceTree = "<group>"; };
-		AC41141F1F826CA2005F898A /* mahu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mahu.jpg; sourceTree = "<group>"; };
-		AC4114201F826CA2005F898A /* malaixiya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = malaixiya.jpg; sourceTree = "<group>"; };
-		AC4114211F826CA2005F898A /* mangu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mangu.jpg; sourceTree = "<group>"; };
-		AC4114221F826CA2005F898A /* meiguo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meiguo1.jpg; sourceTree = "<group>"; };
-		AC4114231F826CA2005F898A /* meizhoudao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meizhoudao.jpg; sourceTree = "<group>"; };
-		AC4114241F826CA2005F898A /* mengmai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mengmai.jpg; sourceTree = "<group>"; };
-		AC4114251F826CA2005F898A /* milan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = milan.jpg; sourceTree = "<group>"; };
-		AC4114261F826CA2005F898A /* moerben.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moerben.jpg; sourceTree = "<group>"; };
-		AC4114271F826CA2005F898A /* mogaoku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mogaoku.jpg; sourceTree = "<group>"; };
-		AC4114281F826CA2005F898A /* mosike.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mosike.jpg; sourceTree = "<group>"; };
-		AC4114291F826CA2005F898A /* nanjing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nanjing.jpg; sourceTree = "<group>"; };
-		AC41142A1F826CA2005F898A /* niboer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = niboer.jpg; sourceTree = "<group>"; };
-		AC41142B1F826CA2005F898A /* niuyue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = niuyue.jpg; sourceTree = "<group>"; };
-		AC41142C1F826CA2005F898A /* pujidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pujidao.jpg; sourceTree = "<group>"; };
-		AC41142D1F826CA2005F898A /* puluowangsi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puluowangsi.jpg; sourceTree = "<group>"; };
-		AC41142E1F826CA2005F898A /* qiantongguzheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qiantongguzheng.jpg; sourceTree = "<group>"; };
-		AC41142F1F826CA2005F898A /* qingdao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qingdao.jpg; sourceTree = "<group>"; };
-		AC4114301F826CA2005F898A /* qingmai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qingmai.jpg; sourceTree = "<group>"; };
-		AC4114311F826CA2005F898A /* qinhuangdao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qinhuangdao.jpg; sourceTree = "<group>"; };
-		AC4114321F826CA2005F898A /* qizanggou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qizanggou.jpg; sourceTree = "<group>"; };
-		AC4114331F826CA2005F898A /* riben1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riben1.jpg; sourceTree = "<group>"; };
-		AC4114341F826CA2005F898A /* sanya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sanya.jpg; sourceTree = "<group>"; };
-		AC4114351F826CA2005F898A /* seda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seda.jpg; sourceTree = "<group>"; };
-		AC4114361F826CA2005F898A /* seda1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seda1.jpg; sourceTree = "<group>"; };
-		AC4114371F826CA2005F898A /* shanghai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shanghai.jpg; sourceTree = "<group>"; };
-		AC4114381F826CA2005F898A /* shanghai1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shanghai1.jpg; sourceTree = "<group>"; };
-		AC4114391F826CA2005F898A /* shennongjia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shennongjia.jpg; sourceTree = "<group>"; };
-		AC41143A1F826CA2005F898A /* shenzhen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shenzhen.jpg; sourceTree = "<group>"; };
-		AC41143B1F826CA2005F898A /* shouer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shouer.jpg; sourceTree = "<group>"; };
-		AC41143C1F826CA2005F898A /* shunanzhuhai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shunanzhuhai.jpg; sourceTree = "<group>"; };
-		AC41143D1F826CA2005F898A /* sililanka.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sililanka.jpg; sourceTree = "<group>"; };
-		AC41143E1F826CA2005F898A /* songsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = songsan.jpg; sourceTree = "<group>"; };
-		AC41143F1F826CA2005F898A /* suzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = suzhou.jpg; sourceTree = "<group>"; };
-		AC4114401F826CA2005F898A /* taibei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taibei.jpg; sourceTree = "<group>"; };
-		AC4114411F826CA2005F898A /* taisan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taisan.jpg; sourceTree = "<group>"; };
-		AC4114421F826CA2005F898A /* tamendao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tamendao.jpg; sourceTree = "<group>"; };
-		AC4114431F826CA2005F898A /* tangan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tangan.jpg; sourceTree = "<group>"; };
-		AC4114441F826CA2005F898A /* tengwangge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tengwangge.jpg; sourceTree = "<group>"; };
-		AC4114451F826CA2005F898A /* tianjin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tianjin.jpg; sourceTree = "<group>"; };
-		AC4114461F826CA2005F898A /* titian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = titian.jpg; sourceTree = "<group>"; };
-		AC4114471F826CA2005F898A /* tulufan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tulufan.jpg; sourceTree = "<group>"; };
-		AC4114481F826CA2005F898A /* weinisi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weinisi.jpg; sourceTree = "<group>"; };
-		AC4114491F826CA2005F898A /* wengehua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wengehua.jpg; sourceTree = "<group>"; };
-		AC41144A1F826CA2005F898A /* wudangsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wudangsan.jpg; sourceTree = "<group>"; };
-		AC41144B1F826CA2005F898A /* wugongsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wugongsan.jpg; sourceTree = "<group>"; };
-		AC41144C1F826CA2005F898A /* wuhan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuhan.jpg; sourceTree = "<group>"; };
-		AC41144D1F826CA2005F898A /* wulong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulong.jpg; sourceTree = "<group>"; };
-		AC41144E1F826CA2005F898A /* wulumuqi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulumuqi.jpeg; sourceTree = "<group>"; };
-		AC41144F1F826CA2005F898A /* wulumuqi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulumuqi.jpg; sourceTree = "<group>"; };
-		AC4114501F826CA2005F898A /* wuyisan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuyisan.jpg; sourceTree = "<group>"; };
-		AC4114511F826CA2005F898A /* wuzheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuzheng.jpg; sourceTree = "<group>"; };
-		AC4114521F826CA2005F898A /* xian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xian.jpg; sourceTree = "<group>"; };
-		AC4114531F826CA2005F898A /* xianggang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xianggang.jpg; sourceTree = "<group>"; };
-		AC4114541F826CA2005F898A /* xianggelila.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xianggelila.jpg; sourceTree = "<group>"; };
-		AC4114551F826CA2005F898A /* xiangyang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiangyang.jpg; sourceTree = "<group>"; };
-		AC4114561F826CA2005F898A /* xiaweiyi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiaweiyi.jpg; sourceTree = "<group>"; };
-		AC4114571F826CA2005F898A /* xindeli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xindeli.jpg; sourceTree = "<group>"; };
-		AC4114581F826CA2005F898A /* xingjiapo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xingjiapo.jpg; sourceTree = "<group>"; };
-		AC4114591F826CA2005F898A /* xini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xini.jpg; sourceTree = "<group>"; };
-		AC41145A1F826CA2005F898A /* xishuangbanna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xishuangbanna.jpg; sourceTree = "<group>"; };
-		AC41145B1F826CA2005F898A /* xiyatu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiyatu.jpg; sourceTree = "<group>"; };
-		AC41145C1F826CA2005F898A /* xuexiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xuexiang.jpg; sourceTree = "<group>"; };
-		AC41145D1F826CA2005F898A /* yadian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yadian.jpg; sourceTree = "<group>"; };
-		AC41145E1F826CA2005F898A /* yalisanda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yalisanda.jpg; sourceTree = "<group>"; };
-		AC41145F1F826CA2005F898A /* yaluzangpujiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yaluzangpujiang.jpg; sourceTree = "<group>"; };
-		AC4114601F826CA2005F898A /* yangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yangzhou.jpg; sourceTree = "<group>"; };
-		AC4114611F826CA2005F898A /* yingchuan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yingchuan.jpg; sourceTree = "<group>"; };
-		AC4114621F826CA2005F898A /* yuenan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yuenan.jpg; sourceTree = "<group>"; };
-		AC4114631F826CA2005F898A /* yusandao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yusandao.jpg; sourceTree = "<group>"; };
-		AC4114641F826CA2005F898A /* zhangjiajie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhangjiajie.jpg; sourceTree = "<group>"; };
-		AC4114651F826CA2005F898A /* zhunyi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhunyi.jpg; sourceTree = "<group>"; };
-		AC4114661F826CA2005F898A /* Default-568h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h.png"; sourceTree = "<group>"; };
-		AC4114671F826CA2005F898A /* menu.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = menu.plist; sourceTree = "<group>"; };
-		AC4114691F826CA2005F898A /* 0002_file.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0002_file.png; sourceTree = "<group>"; };
-		AC41146A1F826CA2005F898A /* 0005_bookmark-open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0005_bookmark-open.png"; sourceTree = "<group>"; };
-		AC41146B1F826CA2005F898A /* 0007_date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0007_date.png; sourceTree = "<group>"; };
-		AC41146C1F826CA2005F898A /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
-		AC41146D1F826CA2005F898A /* btn_close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_close.png; sourceTree = "<group>"; };
-		AC41146E1F826CA2005F898A /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
-		AC41146F1F826CA2005F898A /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
-		AC4114701F826CA2005F898A /* kuang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kuang.png; sourceTree = "<group>"; };
-		AC4114711F826CA2005F898A /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
-		AC4114721F826CA2005F898A /* mountains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mountains.png; sourceTree = "<group>"; };
-		AC4114731F826CA2005F898A /* pengyouquan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pengyouquan.png; sourceTree = "<group>"; };
-		AC4114741F826CA2005F898A /* preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = preview.png; sourceTree = "<group>"; };
-		AC4114751F826CA2005F898A /* weixin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weixin.png; sourceTree = "<group>"; };
-		AC4114761F826CA3005F898A /* motto.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = motto.plist; sourceTree = "<group>"; };
-		AC4114781F826CA3005F898A /* 2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.ttf; sourceTree = "<group>"; };
-		AC4114791F826CA3005F898A /* 3.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.otf; sourceTree = "<group>"; };
-		AC41147A1F826CA3005F898A /* 小汪.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "小汪.ttf"; sourceTree = "<group>"; };
-		AC41147C1F826CA3005F898A /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
-		AC41147D1F826CA3005F898A /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
-		AC41147E1F826CA3005F898A /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
-		AC41147F1F826CA3005F898A /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
-		AC4114801F826CA3005F898A /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
-		AC4114811F826CA3005F898A /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
-		AC4114821F826CA3005F898A /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
-		AC4114831F826CA3005F898A /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
-		AC4114841F826CA3005F898A /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
 		AC4114881F826F64005F898A /* CustomTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomTabBarController.h; sourceTree = "<group>"; };
 		AC4114891F826F64005F898A /* CustomTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomTabBarController.m; sourceTree = "<group>"; };
 		AC41148B1F82724C005F898A /* UIViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UIViewModel.h; sourceTree = "<group>"; };
@@ -247,6 +245,181 @@
 		AC4114A31F828E8F005F898A /* MyCities.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyCities.m; sourceTree = "<group>"; };
 		AC4114A51F829A02005F898A /* DeviceJuage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeviceJuage.h; sourceTree = "<group>"; };
 		AC4114A61F829A02005F898A /* DeviceJuage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DeviceJuage.m; sourceTree = "<group>"; };
+		AC4114AC1F834087005F898A /* MyTitleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTitleView.h; sourceTree = "<group>"; };
+		AC4114AD1F834087005F898A /* MyTitleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTitleView.m; sourceTree = "<group>"; };
+		AC4114B41F8350C9005F898A /* aersan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aersan.jpg; sourceTree = "<group>"; };
+		AC4114B51F8350C9005F898A /* agenting.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = agenting.jpg; sourceTree = "<group>"; };
+		AC4114B61F8350C9005F898A /* aomen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aomen.jpg; sourceTree = "<group>"; };
+		AC4114B71F8350C9005F898A /* bali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bali.jpg; sourceTree = "<group>"; };
+		AC4114B81F8350C9005F898A /* bamei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bamei.jpg; sourceTree = "<group>"; };
+		AC4114B91F8350C9005F898A /* beihai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beihai.jpg; sourceTree = "<group>"; };
+		AC4114BA1F8350C9005F898A /* beihaidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beihaidao.jpg; sourceTree = "<group>"; };
+		AC4114BB1F8350C9005F898A /* beijing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beijing.jpg; sourceTree = "<group>"; };
+		AC4114BC1F8350C9005F898A /* budalagong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = budalagong.jpg; sourceTree = "<group>"; };
+		AC4114BD1F8350C9005F898A /* cangyuan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cangyuan.jpg; sourceTree = "<group>"; };
+		AC4114BE1F8350C9005F898A /* chengdu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chengdu.jpg; sourceTree = "<group>"; };
+		AC4114BF1F8350C9005F898A /* chongqing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chongqing.jpg; sourceTree = "<group>"; };
+		AC4114C01F8350C9005F898A /* chunribu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chunribu.jpg; sourceTree = "<group>"; };
+		AC4114C11F8350C9005F898A /* cixi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cixi.jpg; sourceTree = "<group>"; };
+		AC4114C21F8350C9005F898A /* daban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daban.jpg; sourceTree = "<group>"; };
+		AC4114C31F8350C9005F898A /* dabaojiao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dabaojiao.jpg; sourceTree = "<group>"; };
+		AC4114C41F8350C9005F898A /* dali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dali.jpg; sourceTree = "<group>"; };
+		AC4114C51F8350C9005F898A /* daocheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daocheng.jpg; sourceTree = "<group>"; };
+		AC4114C61F8350C9005F898A /* dibai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dibai.jpg; sourceTree = "<group>"; };
+		AC4114C71F8350C9005F898A /* dongjidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dongjidao.jpg; sourceTree = "<group>"; };
+		AC4114C81F8350C9005F898A /* dongjin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dongjin.jpg; sourceTree = "<group>"; };
+		AC4114C91F8350C9005F898A /* eguaduoer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eguaduoer.jpg; sourceTree = "<group>"; };
+		AC4114CA1F8350C9005F898A /* emei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = emei.jpg; sourceTree = "<group>"; };
+		AC4114CB1F8350C9005F898A /* enshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = enshi.jpg; sourceTree = "<group>"; };
+		AC4114CC1F8350C9005F898A /* enshidaxiagu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = enshidaxiagu.jpg; sourceTree = "<group>"; };
+		AC4114CD1F8350C9005F898A /* fuhuojiedao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fuhuojiedao.jpg; sourceTree = "<group>"; };
+		AC4114CE1F8350C9005F898A /* fusan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fusan.jpg; sourceTree = "<group>"; };
+		AC4114CF1F8350C9005F898A /* gana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gana.jpg; sourceTree = "<group>"; };
+		AC4114D01F8350C9005F898A /* guangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guangzhou.jpg; sourceTree = "<group>"; };
+		AC4114D11F8350C9005F898A /* haerbing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haerbing.jpg; sourceTree = "<group>"; };
+		AC4114D21F8350C9005F898A /* hangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hangzhou.jpg; sourceTree = "<group>"; };
+		AC4114D31F8350C9005F898A /* hemu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hemu.jpg; sourceTree = "<group>"; };
+		AC4114D41F8350C9005F898A /* hengsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hengsan.jpg; sourceTree = "<group>"; };
+		AC4114D51F8350C9005F898A /* huachengdun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huachengdun.jpg; sourceTree = "<group>"; };
+		AC4114D61F8350C9005F898A /* huangjinghaian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huangjinghaian.jpg; sourceTree = "<group>"; };
+		AC4114D71F8350C9005F898A /* huangsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huangsan.jpg; sourceTree = "<group>"; };
+		AC4114D81F8350C9005F898A /* huaniaodao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huaniaodao.jpg; sourceTree = "<group>"; };
+		AC4114D91F8350C9005F898A /* huhehaote.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huhehaote.jpg; sourceTree = "<group>"; };
+		AC4114DA1F8350C9005F898A /* hukoupubu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hukoupubu.jpg; sourceTree = "<group>"; };
+		AC4114DB1F8350C9005F898A /* jianqiao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jianqiao.jpg; sourceTree = "<group>"; };
+		AC4114DC1F8350C9005F898A /* jinan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jinan.jpg; sourceTree = "<group>"; };
+		AC4114DD1F8350C9005F898A /* jingdu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jingdu.jpg; sourceTree = "<group>"; };
+		AC4114DE1F8350C9005F898A /* jisha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jisha.jpg; sourceTree = "<group>"; };
+		AC4114DF1F8350C9005F898A /* jiujinsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jiujinsan.jpg; sourceTree = "<group>"; };
+		AC4114E01F8350C9005F898A /* jiuzhaigou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jiuzhaigou.jpg; sourceTree = "<group>"; };
+		AC4114E11F8350C9005F898A /* jizhoudao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jizhoudao.jpg; sourceTree = "<group>"; };
+		AC4114E21F8350C9005F898A /* kaifeng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kaifeng.jpg; sourceTree = "<group>"; };
+		AC4114E31F8350C9005F898A /* kailuo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kailuo.jpg; sourceTree = "<group>"; };
+		AC4114E41F8350C9005F898A /* kekexili.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kekexili.jpg; sourceTree = "<group>"; };
+		AC4114E51F8350C9005F898A /* keluoladuo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = keluoladuo.jpg; sourceTree = "<group>"; };
+		AC4114E61F8350C9005F898A /* kunming.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kunming.jpg; sourceTree = "<group>"; };
+		AC4114E71F8350C9005F898A /* lanzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lanzhou.jpg; sourceTree = "<group>"; };
+		AC4114E81F8350C9005F898A /* lasa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lasa.jpg; sourceTree = "<group>"; };
+		AC4114E91F8350C9005F898A /* lasiweijiasi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lasiweijiasi.jpg; sourceTree = "<group>"; };
+		AC4114EA1F8350C9005F898A /* lijiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lijiang.jpg; sourceTree = "<group>"; };
+		AC4114EB1F8350C9005F898A /* lijiang1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lijiang1.jpg; sourceTree = "<group>"; };
+		AC4114EC1F8350C9005F898A /* liyuereneilu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = liyuereneilu.jpg; sourceTree = "<group>"; };
+		AC4114ED1F8350C9005F898A /* lundun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lundun.jpg; sourceTree = "<group>"; };
+		AC4114EE1F8350C9005F898A /* luoma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luoma.jpg; sourceTree = "<group>"; };
+		AC4114EF1F8350C9005F898A /* luosanji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luosanji.jpg; sourceTree = "<group>"; };
+		AC4114F01F8350C9005F898A /* luoyang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luoyang.jpg; sourceTree = "<group>"; };
+		AC4114F11F8350C9005F898A /* madeli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = madeli.jpg; sourceTree = "<group>"; };
+		AC4114F21F8350C9005F898A /* maerdaifu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maerdaifu.jpg; sourceTree = "<group>"; };
+		AC4114F31F8350C9005F898A /* mahu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mahu.jpg; sourceTree = "<group>"; };
+		AC4114F41F8350C9005F898A /* malaixiya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = malaixiya.jpg; sourceTree = "<group>"; };
+		AC4114F51F8350C9005F898A /* mangu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mangu.jpg; sourceTree = "<group>"; };
+		AC4114F61F8350C9005F898A /* meiguo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meiguo1.jpg; sourceTree = "<group>"; };
+		AC4114F71F8350C9005F898A /* meizhoudao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meizhoudao.jpg; sourceTree = "<group>"; };
+		AC4114F81F8350C9005F898A /* mengmai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mengmai.jpg; sourceTree = "<group>"; };
+		AC4114F91F8350C9005F898A /* milan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = milan.jpg; sourceTree = "<group>"; };
+		AC4114FA1F8350C9005F898A /* moerben.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moerben.jpg; sourceTree = "<group>"; };
+		AC4114FB1F8350C9005F898A /* mogaoku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mogaoku.jpg; sourceTree = "<group>"; };
+		AC4114FC1F8350C9005F898A /* mosike.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mosike.jpg; sourceTree = "<group>"; };
+		AC4114FD1F8350C9005F898A /* nanjing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nanjing.jpg; sourceTree = "<group>"; };
+		AC4114FE1F8350C9005F898A /* niboer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = niboer.jpg; sourceTree = "<group>"; };
+		AC4114FF1F8350C9005F898A /* niuyue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = niuyue.jpg; sourceTree = "<group>"; };
+		AC4115001F8350C9005F898A /* pujidao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pujidao.jpg; sourceTree = "<group>"; };
+		AC4115011F8350C9005F898A /* puluowangsi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puluowangsi.jpg; sourceTree = "<group>"; };
+		AC4115021F8350C9005F898A /* qiantongguzheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qiantongguzheng.jpg; sourceTree = "<group>"; };
+		AC4115031F8350C9005F898A /* qingdao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qingdao.jpg; sourceTree = "<group>"; };
+		AC4115041F8350C9005F898A /* qingmai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qingmai.jpg; sourceTree = "<group>"; };
+		AC4115051F8350C9005F898A /* qinhuangdao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qinhuangdao.jpg; sourceTree = "<group>"; };
+		AC4115061F8350C9005F898A /* qizanggou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qizanggou.jpg; sourceTree = "<group>"; };
+		AC4115071F8350C9005F898A /* riben1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riben1.jpg; sourceTree = "<group>"; };
+		AC4115081F8350C9005F898A /* sanya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sanya.jpg; sourceTree = "<group>"; };
+		AC4115091F8350C9005F898A /* seda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seda.jpg; sourceTree = "<group>"; };
+		AC41150A1F8350C9005F898A /* seda1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seda1.jpg; sourceTree = "<group>"; };
+		AC41150B1F8350C9005F898A /* shanghai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shanghai.jpg; sourceTree = "<group>"; };
+		AC41150C1F8350C9005F898A /* shanghai1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shanghai1.jpg; sourceTree = "<group>"; };
+		AC41150D1F8350C9005F898A /* shennongjia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shennongjia.jpg; sourceTree = "<group>"; };
+		AC41150E1F8350C9005F898A /* shenzhen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shenzhen.jpg; sourceTree = "<group>"; };
+		AC41150F1F8350C9005F898A /* shouer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shouer.jpg; sourceTree = "<group>"; };
+		AC4115101F8350C9005F898A /* shunanzhuhai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shunanzhuhai.jpg; sourceTree = "<group>"; };
+		AC4115111F8350C9005F898A /* sililanka.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sililanka.jpg; sourceTree = "<group>"; };
+		AC4115121F8350C9005F898A /* songsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = songsan.jpg; sourceTree = "<group>"; };
+		AC4115131F8350C9005F898A /* suzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = suzhou.jpg; sourceTree = "<group>"; };
+		AC4115141F8350C9005F898A /* taibei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taibei.jpg; sourceTree = "<group>"; };
+		AC4115151F8350C9005F898A /* taisan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taisan.jpg; sourceTree = "<group>"; };
+		AC4115161F8350C9005F898A /* tamendao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tamendao.jpg; sourceTree = "<group>"; };
+		AC4115171F8350C9005F898A /* tangan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tangan.jpg; sourceTree = "<group>"; };
+		AC4115181F8350C9005F898A /* tengwangge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tengwangge.jpg; sourceTree = "<group>"; };
+		AC4115191F8350C9005F898A /* tianjin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tianjin.jpg; sourceTree = "<group>"; };
+		AC41151A1F8350C9005F898A /* titian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = titian.jpg; sourceTree = "<group>"; };
+		AC41151B1F8350C9005F898A /* tulufan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tulufan.jpg; sourceTree = "<group>"; };
+		AC41151C1F8350C9005F898A /* weinisi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weinisi.jpg; sourceTree = "<group>"; };
+		AC41151D1F8350C9005F898A /* wengehua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wengehua.jpg; sourceTree = "<group>"; };
+		AC41151E1F8350C9005F898A /* wudangsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wudangsan.jpg; sourceTree = "<group>"; };
+		AC41151F1F8350C9005F898A /* wugongsan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wugongsan.jpg; sourceTree = "<group>"; };
+		AC4115201F8350C9005F898A /* wuhan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuhan.jpg; sourceTree = "<group>"; };
+		AC4115211F8350C9005F898A /* wulong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulong.jpg; sourceTree = "<group>"; };
+		AC4115221F8350C9005F898A /* wulumuqi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulumuqi.jpeg; sourceTree = "<group>"; };
+		AC4115231F8350C9005F898A /* wulumuqi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wulumuqi.jpg; sourceTree = "<group>"; };
+		AC4115241F8350C9005F898A /* wuyisan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuyisan.jpg; sourceTree = "<group>"; };
+		AC4115251F8350C9005F898A /* wuzheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuzheng.jpg; sourceTree = "<group>"; };
+		AC4115261F8350C9005F898A /* xian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xian.jpg; sourceTree = "<group>"; };
+		AC4115271F8350C9005F898A /* xianggang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xianggang.jpg; sourceTree = "<group>"; };
+		AC4115281F8350C9005F898A /* xianggelila.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xianggelila.jpg; sourceTree = "<group>"; };
+		AC4115291F8350C9005F898A /* xiangyang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiangyang.jpg; sourceTree = "<group>"; };
+		AC41152A1F8350C9005F898A /* xiaweiyi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiaweiyi.jpg; sourceTree = "<group>"; };
+		AC41152B1F8350C9005F898A /* xindeli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xindeli.jpg; sourceTree = "<group>"; };
+		AC41152C1F8350C9005F898A /* xingjiapo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xingjiapo.jpg; sourceTree = "<group>"; };
+		AC41152D1F8350C9005F898A /* xini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xini.jpg; sourceTree = "<group>"; };
+		AC41152E1F8350C9005F898A /* xishuangbanna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xishuangbanna.jpg; sourceTree = "<group>"; };
+		AC41152F1F8350C9005F898A /* xiyatu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xiyatu.jpg; sourceTree = "<group>"; };
+		AC4115301F8350C9005F898A /* xuexiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xuexiang.jpg; sourceTree = "<group>"; };
+		AC4115311F8350C9005F898A /* yadian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yadian.jpg; sourceTree = "<group>"; };
+		AC4115321F8350C9005F898A /* yalisanda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yalisanda.jpg; sourceTree = "<group>"; };
+		AC4115331F8350C9005F898A /* yaluzangpujiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yaluzangpujiang.jpg; sourceTree = "<group>"; };
+		AC4115341F8350C9005F898A /* yangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yangzhou.jpg; sourceTree = "<group>"; };
+		AC4115351F8350C9005F898A /* yingchuan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yingchuan.jpg; sourceTree = "<group>"; };
+		AC4115361F8350C9005F898A /* yuenan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yuenan.jpg; sourceTree = "<group>"; };
+		AC4115371F8350C9005F898A /* yusandao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yusandao.jpg; sourceTree = "<group>"; };
+		AC4115381F8350C9005F898A /* zhangjiajie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhangjiajie.jpg; sourceTree = "<group>"; };
+		AC4115391F8350C9005F898A /* zhunyi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhunyi.jpg; sourceTree = "<group>"; };
+		AC41153A1F8350C9005F898A /* Default-568h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h.png"; sourceTree = "<group>"; };
+		AC41153B1F8350C9005F898A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		AC41153D1F8350C9005F898A /* 2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.ttf; sourceTree = "<group>"; };
+		AC41153E1F8350C9005F898A /* 3.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.otf; sourceTree = "<group>"; };
+		AC41153F1F8350C9005F898A /* 小汪.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "小汪.ttf"; sourceTree = "<group>"; };
+		AC4115411F8350C9005F898A /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		AC4115421F8350C9005F898A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		AC4115431F8350C9005F898A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		AC4115441F8350C9005F898A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		AC4115451F8350C9005F898A /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		AC4115461F8350C9005F898A /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		AC4115471F8350C9005F898A /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		AC4115481F8350C9005F898A /* menu.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = menu.plist; sourceTree = "<group>"; };
+		AC4115491F8350C9005F898A /* motto.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = motto.plist; sourceTree = "<group>"; };
+		AC41154B1F8350C9005F898A /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		AC41154C1F8350C9005F898A /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		AC41154D1F8350C9005F898A /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		AC41154E1F8350C9005F898A /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		AC41154F1F8350C9005F898A /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		AC4115501F8350C9005F898A /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		AC4115511F8350C9005F898A /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		AC4115521F8350C9005F898A /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		AC4115531F8350C9005F898A /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		AC4115551F8350C9005F898A /* 0002_file.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0002_file.png; sourceTree = "<group>"; };
+		AC4115561F8350C9005F898A /* 0002_file@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0002_file@2x.png"; sourceTree = "<group>"; };
+		AC4115571F8350C9005F898A /* 0005_bookmark-open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0005_bookmark-open.png"; sourceTree = "<group>"; };
+		AC4115581F8350C9005F898A /* 0007_date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0007_date.png; sourceTree = "<group>"; };
+		AC4115591F8350C9005F898A /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		AC41155A1F8350C9005F898A /* btn_close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_close.png; sourceTree = "<group>"; };
+		AC41155B1F8350C9005F898A /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
+		AC41155C1F8350C9005F898A /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
+		AC41155D1F8350C9005F898A /* kuang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kuang.png; sourceTree = "<group>"; };
+		AC41155E1F8350C9005F898A /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		AC41155F1F8350C9005F898A /* mountains.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mountains.png; sourceTree = "<group>"; };
+		AC4115601F8350C9005F898A /* pengyouquan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pengyouquan.png; sourceTree = "<group>"; };
+		AC4115611F8350C9005F898A /* preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = preview.png; sourceTree = "<group>"; };
+		AC4115631F8350C9005F898A /* sunny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sunny.png; sourceTree = "<group>"; };
+		AC4115641F8350C9005F898A /* sunny@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sunny@2x.png"; sourceTree = "<group>"; };
+		AC4115651F8350C9005F898A /* weixin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weixin.png; sourceTree = "<group>"; };
 		ACFE20731F813CB200E873F0 /* wheretotravel2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wheretotravel2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACFE20761F813CB200E873F0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		ACFE20771F813CB200E873F0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -293,205 +466,232 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AC4113D71F826CA2005F898A /* mainimage */ = {
+		AC4114B21F8350C9005F898A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				AC4113D81F826CA2005F898A /* 0.png */,
-				AC4113D91F826CA2005F898A /* 1.png */,
-				AC4113DA1F826CA2005F898A /* 2.png */,
-				AC4113DB1F826CA2005F898A /* 3.png */,
-				AC4113DC1F826CA2005F898A /* 4.png */,
-				AC4113DD1F826CA2005F898A /* 5.png */,
-				AC4113DE1F826CA2005F898A /* 6.png */,
+				AC4114B31F8350C9005F898A /* background */,
+				AC41153A1F8350C9005F898A /* Default-568h.png */,
+				AC41153B1F8350C9005F898A /* Default-568h@2x.png */,
+				AC41153C1F8350C9005F898A /* fonts */,
+				AC4115401F8350C9005F898A /* mainimage */,
+				AC4115481F8350C9005F898A /* menu.plist */,
+				AC4115491F8350C9005F898A /* motto.plist */,
+				AC41154A1F8350C9005F898A /* mottoback */,
+				AC4115541F8350C9005F898A /* ui */,
 			);
-			path = mainimage;
+			path = Resources;
 			sourceTree = "<group>";
 		};
-		AC4113DF1F826CA2005F898A /* background */ = {
+		AC4114B31F8350C9005F898A /* background */ = {
 			isa = PBXGroup;
 			children = (
-				AC4113E01F826CA2005F898A /* aersan.jpg */,
-				AC4113E11F826CA2005F898A /* agenting.jpg */,
-				AC4113E21F826CA2005F898A /* aomen.jpg */,
-				AC4113E31F826CA2005F898A /* bali.jpg */,
-				AC4113E41F826CA2005F898A /* bamei.jpg */,
-				AC4113E51F826CA2005F898A /* beihai.jpg */,
-				AC4113E61F826CA2005F898A /* beihaidao.jpg */,
-				AC4113E71F826CA2005F898A /* beijing.jpg */,
-				AC4113E81F826CA2005F898A /* budalagong.jpg */,
-				AC4113E91F826CA2005F898A /* cangyuan.jpg */,
-				AC4113EA1F826CA2005F898A /* chengdu.jpg */,
-				AC4113EB1F826CA2005F898A /* chongqing.jpg */,
-				AC4113EC1F826CA2005F898A /* chunribu.jpg */,
-				AC4113ED1F826CA2005F898A /* cixi.jpg */,
-				AC4113EE1F826CA2005F898A /* daban.jpg */,
-				AC4113EF1F826CA2005F898A /* dabaojiao.jpg */,
-				AC4113F01F826CA2005F898A /* dali.jpg */,
-				AC4113F11F826CA2005F898A /* daocheng.jpg */,
-				AC4113F21F826CA2005F898A /* dibai.jpg */,
-				AC4113F31F826CA2005F898A /* dongjidao.jpg */,
-				AC4113F41F826CA2005F898A /* dongjin.jpg */,
-				AC4113F51F826CA2005F898A /* eguaduoer.jpg */,
-				AC4113F61F826CA2005F898A /* emei.jpg */,
-				AC4113F71F826CA2005F898A /* enshi.jpg */,
-				AC4113F81F826CA2005F898A /* enshidaxiagu.jpg */,
-				AC4113F91F826CA2005F898A /* fuhuojiedao.jpg */,
-				AC4113FA1F826CA2005F898A /* fusan.jpg */,
-				AC4113FB1F826CA2005F898A /* gana.jpg */,
-				AC4113FC1F826CA2005F898A /* guangzhou.jpg */,
-				AC4113FD1F826CA2005F898A /* haerbing.jpg */,
-				AC4113FE1F826CA2005F898A /* hangzhou.jpg */,
-				AC4113FF1F826CA2005F898A /* hemu.jpg */,
-				AC4114001F826CA2005F898A /* hengsan.jpg */,
-				AC4114011F826CA2005F898A /* huachengdun.jpg */,
-				AC4114021F826CA2005F898A /* huangjinghaian.jpg */,
-				AC4114031F826CA2005F898A /* huangsan.jpg */,
-				AC4114041F826CA2005F898A /* huaniaodao.jpg */,
-				AC4114051F826CA2005F898A /* huhehaote.jpg */,
-				AC4114061F826CA2005F898A /* hukoupubu.jpg */,
-				AC4114071F826CA2005F898A /* jianqiao.jpg */,
-				AC4114081F826CA2005F898A /* jinan.jpg */,
-				AC4114091F826CA2005F898A /* jingdu.jpg */,
-				AC41140A1F826CA2005F898A /* jisha.jpg */,
-				AC41140B1F826CA2005F898A /* jiujinsan.jpg */,
-				AC41140C1F826CA2005F898A /* jiuzhaigou.jpg */,
-				AC41140D1F826CA2005F898A /* jizhoudao.jpg */,
-				AC41140E1F826CA2005F898A /* kaifeng.jpg */,
-				AC41140F1F826CA2005F898A /* kailuo.jpg */,
-				AC4114101F826CA2005F898A /* kekexili.jpg */,
-				AC4114111F826CA2005F898A /* keluoladuo.jpg */,
-				AC4114121F826CA2005F898A /* kunming.jpg */,
-				AC4114131F826CA2005F898A /* lanzhou.jpg */,
-				AC4114141F826CA2005F898A /* lasa.jpg */,
-				AC4114151F826CA2005F898A /* lasiweijiasi.jpg */,
-				AC4114161F826CA2005F898A /* lijiang.jpg */,
-				AC4114171F826CA2005F898A /* lijiang1.jpg */,
-				AC4114181F826CA2005F898A /* liyuereneilu.jpg */,
-				AC4114191F826CA2005F898A /* lundun.jpg */,
-				AC41141A1F826CA2005F898A /* luoma.jpg */,
-				AC41141B1F826CA2005F898A /* luosanji.jpg */,
-				AC41141C1F826CA2005F898A /* luoyang.jpg */,
-				AC41141D1F826CA2005F898A /* madeli.jpg */,
-				AC41141E1F826CA2005F898A /* maerdaifu.jpg */,
-				AC41141F1F826CA2005F898A /* mahu.jpg */,
-				AC4114201F826CA2005F898A /* malaixiya.jpg */,
-				AC4114211F826CA2005F898A /* mangu.jpg */,
-				AC4114221F826CA2005F898A /* meiguo1.jpg */,
-				AC4114231F826CA2005F898A /* meizhoudao.jpg */,
-				AC4114241F826CA2005F898A /* mengmai.jpg */,
-				AC4114251F826CA2005F898A /* milan.jpg */,
-				AC4114261F826CA2005F898A /* moerben.jpg */,
-				AC4114271F826CA2005F898A /* mogaoku.jpg */,
-				AC4114281F826CA2005F898A /* mosike.jpg */,
-				AC4114291F826CA2005F898A /* nanjing.jpg */,
-				AC41142A1F826CA2005F898A /* niboer.jpg */,
-				AC41142B1F826CA2005F898A /* niuyue.jpg */,
-				AC41142C1F826CA2005F898A /* pujidao.jpg */,
-				AC41142D1F826CA2005F898A /* puluowangsi.jpg */,
-				AC41142E1F826CA2005F898A /* qiantongguzheng.jpg */,
-				AC41142F1F826CA2005F898A /* qingdao.jpg */,
-				AC4114301F826CA2005F898A /* qingmai.jpg */,
-				AC4114311F826CA2005F898A /* qinhuangdao.jpg */,
-				AC4114321F826CA2005F898A /* qizanggou.jpg */,
-				AC4114331F826CA2005F898A /* riben1.jpg */,
-				AC4114341F826CA2005F898A /* sanya.jpg */,
-				AC4114351F826CA2005F898A /* seda.jpg */,
-				AC4114361F826CA2005F898A /* seda1.jpg */,
-				AC4114371F826CA2005F898A /* shanghai.jpg */,
-				AC4114381F826CA2005F898A /* shanghai1.jpg */,
-				AC4114391F826CA2005F898A /* shennongjia.jpg */,
-				AC41143A1F826CA2005F898A /* shenzhen.jpg */,
-				AC41143B1F826CA2005F898A /* shouer.jpg */,
-				AC41143C1F826CA2005F898A /* shunanzhuhai.jpg */,
-				AC41143D1F826CA2005F898A /* sililanka.jpg */,
-				AC41143E1F826CA2005F898A /* songsan.jpg */,
-				AC41143F1F826CA2005F898A /* suzhou.jpg */,
-				AC4114401F826CA2005F898A /* taibei.jpg */,
-				AC4114411F826CA2005F898A /* taisan.jpg */,
-				AC4114421F826CA2005F898A /* tamendao.jpg */,
-				AC4114431F826CA2005F898A /* tangan.jpg */,
-				AC4114441F826CA2005F898A /* tengwangge.jpg */,
-				AC4114451F826CA2005F898A /* tianjin.jpg */,
-				AC4114461F826CA2005F898A /* titian.jpg */,
-				AC4114471F826CA2005F898A /* tulufan.jpg */,
-				AC4114481F826CA2005F898A /* weinisi.jpg */,
-				AC4114491F826CA2005F898A /* wengehua.jpg */,
-				AC41144A1F826CA2005F898A /* wudangsan.jpg */,
-				AC41144B1F826CA2005F898A /* wugongsan.jpg */,
-				AC41144C1F826CA2005F898A /* wuhan.jpg */,
-				AC41144D1F826CA2005F898A /* wulong.jpg */,
-				AC41144E1F826CA2005F898A /* wulumuqi.jpeg */,
-				AC41144F1F826CA2005F898A /* wulumuqi.jpg */,
-				AC4114501F826CA2005F898A /* wuyisan.jpg */,
-				AC4114511F826CA2005F898A /* wuzheng.jpg */,
-				AC4114521F826CA2005F898A /* xian.jpg */,
-				AC4114531F826CA2005F898A /* xianggang.jpg */,
-				AC4114541F826CA2005F898A /* xianggelila.jpg */,
-				AC4114551F826CA2005F898A /* xiangyang.jpg */,
-				AC4114561F826CA2005F898A /* xiaweiyi.jpg */,
-				AC4114571F826CA2005F898A /* xindeli.jpg */,
-				AC4114581F826CA2005F898A /* xingjiapo.jpg */,
-				AC4114591F826CA2005F898A /* xini.jpg */,
-				AC41145A1F826CA2005F898A /* xishuangbanna.jpg */,
-				AC41145B1F826CA2005F898A /* xiyatu.jpg */,
-				AC41145C1F826CA2005F898A /* xuexiang.jpg */,
-				AC41145D1F826CA2005F898A /* yadian.jpg */,
-				AC41145E1F826CA2005F898A /* yalisanda.jpg */,
-				AC41145F1F826CA2005F898A /* yaluzangpujiang.jpg */,
-				AC4114601F826CA2005F898A /* yangzhou.jpg */,
-				AC4114611F826CA2005F898A /* yingchuan.jpg */,
-				AC4114621F826CA2005F898A /* yuenan.jpg */,
-				AC4114631F826CA2005F898A /* yusandao.jpg */,
-				AC4114641F826CA2005F898A /* zhangjiajie.jpg */,
-				AC4114651F826CA2005F898A /* zhunyi.jpg */,
+				AC4114B41F8350C9005F898A /* aersan.jpg */,
+				AC4114B51F8350C9005F898A /* agenting.jpg */,
+				AC4114B61F8350C9005F898A /* aomen.jpg */,
+				AC4114B71F8350C9005F898A /* bali.jpg */,
+				AC4114B81F8350C9005F898A /* bamei.jpg */,
+				AC4114B91F8350C9005F898A /* beihai.jpg */,
+				AC4114BA1F8350C9005F898A /* beihaidao.jpg */,
+				AC4114BB1F8350C9005F898A /* beijing.jpg */,
+				AC4114BC1F8350C9005F898A /* budalagong.jpg */,
+				AC4114BD1F8350C9005F898A /* cangyuan.jpg */,
+				AC4114BE1F8350C9005F898A /* chengdu.jpg */,
+				AC4114BF1F8350C9005F898A /* chongqing.jpg */,
+				AC4114C01F8350C9005F898A /* chunribu.jpg */,
+				AC4114C11F8350C9005F898A /* cixi.jpg */,
+				AC4114C21F8350C9005F898A /* daban.jpg */,
+				AC4114C31F8350C9005F898A /* dabaojiao.jpg */,
+				AC4114C41F8350C9005F898A /* dali.jpg */,
+				AC4114C51F8350C9005F898A /* daocheng.jpg */,
+				AC4114C61F8350C9005F898A /* dibai.jpg */,
+				AC4114C71F8350C9005F898A /* dongjidao.jpg */,
+				AC4114C81F8350C9005F898A /* dongjin.jpg */,
+				AC4114C91F8350C9005F898A /* eguaduoer.jpg */,
+				AC4114CA1F8350C9005F898A /* emei.jpg */,
+				AC4114CB1F8350C9005F898A /* enshi.jpg */,
+				AC4114CC1F8350C9005F898A /* enshidaxiagu.jpg */,
+				AC4114CD1F8350C9005F898A /* fuhuojiedao.jpg */,
+				AC4114CE1F8350C9005F898A /* fusan.jpg */,
+				AC4114CF1F8350C9005F898A /* gana.jpg */,
+				AC4114D01F8350C9005F898A /* guangzhou.jpg */,
+				AC4114D11F8350C9005F898A /* haerbing.jpg */,
+				AC4114D21F8350C9005F898A /* hangzhou.jpg */,
+				AC4114D31F8350C9005F898A /* hemu.jpg */,
+				AC4114D41F8350C9005F898A /* hengsan.jpg */,
+				AC4114D51F8350C9005F898A /* huachengdun.jpg */,
+				AC4114D61F8350C9005F898A /* huangjinghaian.jpg */,
+				AC4114D71F8350C9005F898A /* huangsan.jpg */,
+				AC4114D81F8350C9005F898A /* huaniaodao.jpg */,
+				AC4114D91F8350C9005F898A /* huhehaote.jpg */,
+				AC4114DA1F8350C9005F898A /* hukoupubu.jpg */,
+				AC4114DB1F8350C9005F898A /* jianqiao.jpg */,
+				AC4114DC1F8350C9005F898A /* jinan.jpg */,
+				AC4114DD1F8350C9005F898A /* jingdu.jpg */,
+				AC4114DE1F8350C9005F898A /* jisha.jpg */,
+				AC4114DF1F8350C9005F898A /* jiujinsan.jpg */,
+				AC4114E01F8350C9005F898A /* jiuzhaigou.jpg */,
+				AC4114E11F8350C9005F898A /* jizhoudao.jpg */,
+				AC4114E21F8350C9005F898A /* kaifeng.jpg */,
+				AC4114E31F8350C9005F898A /* kailuo.jpg */,
+				AC4114E41F8350C9005F898A /* kekexili.jpg */,
+				AC4114E51F8350C9005F898A /* keluoladuo.jpg */,
+				AC4114E61F8350C9005F898A /* kunming.jpg */,
+				AC4114E71F8350C9005F898A /* lanzhou.jpg */,
+				AC4114E81F8350C9005F898A /* lasa.jpg */,
+				AC4114E91F8350C9005F898A /* lasiweijiasi.jpg */,
+				AC4114EA1F8350C9005F898A /* lijiang.jpg */,
+				AC4114EB1F8350C9005F898A /* lijiang1.jpg */,
+				AC4114EC1F8350C9005F898A /* liyuereneilu.jpg */,
+				AC4114ED1F8350C9005F898A /* lundun.jpg */,
+				AC4114EE1F8350C9005F898A /* luoma.jpg */,
+				AC4114EF1F8350C9005F898A /* luosanji.jpg */,
+				AC4114F01F8350C9005F898A /* luoyang.jpg */,
+				AC4114F11F8350C9005F898A /* madeli.jpg */,
+				AC4114F21F8350C9005F898A /* maerdaifu.jpg */,
+				AC4114F31F8350C9005F898A /* mahu.jpg */,
+				AC4114F41F8350C9005F898A /* malaixiya.jpg */,
+				AC4114F51F8350C9005F898A /* mangu.jpg */,
+				AC4114F61F8350C9005F898A /* meiguo1.jpg */,
+				AC4114F71F8350C9005F898A /* meizhoudao.jpg */,
+				AC4114F81F8350C9005F898A /* mengmai.jpg */,
+				AC4114F91F8350C9005F898A /* milan.jpg */,
+				AC4114FA1F8350C9005F898A /* moerben.jpg */,
+				AC4114FB1F8350C9005F898A /* mogaoku.jpg */,
+				AC4114FC1F8350C9005F898A /* mosike.jpg */,
+				AC4114FD1F8350C9005F898A /* nanjing.jpg */,
+				AC4114FE1F8350C9005F898A /* niboer.jpg */,
+				AC4114FF1F8350C9005F898A /* niuyue.jpg */,
+				AC4115001F8350C9005F898A /* pujidao.jpg */,
+				AC4115011F8350C9005F898A /* puluowangsi.jpg */,
+				AC4115021F8350C9005F898A /* qiantongguzheng.jpg */,
+				AC4115031F8350C9005F898A /* qingdao.jpg */,
+				AC4115041F8350C9005F898A /* qingmai.jpg */,
+				AC4115051F8350C9005F898A /* qinhuangdao.jpg */,
+				AC4115061F8350C9005F898A /* qizanggou.jpg */,
+				AC4115071F8350C9005F898A /* riben1.jpg */,
+				AC4115081F8350C9005F898A /* sanya.jpg */,
+				AC4115091F8350C9005F898A /* seda.jpg */,
+				AC41150A1F8350C9005F898A /* seda1.jpg */,
+				AC41150B1F8350C9005F898A /* shanghai.jpg */,
+				AC41150C1F8350C9005F898A /* shanghai1.jpg */,
+				AC41150D1F8350C9005F898A /* shennongjia.jpg */,
+				AC41150E1F8350C9005F898A /* shenzhen.jpg */,
+				AC41150F1F8350C9005F898A /* shouer.jpg */,
+				AC4115101F8350C9005F898A /* shunanzhuhai.jpg */,
+				AC4115111F8350C9005F898A /* sililanka.jpg */,
+				AC4115121F8350C9005F898A /* songsan.jpg */,
+				AC4115131F8350C9005F898A /* suzhou.jpg */,
+				AC4115141F8350C9005F898A /* taibei.jpg */,
+				AC4115151F8350C9005F898A /* taisan.jpg */,
+				AC4115161F8350C9005F898A /* tamendao.jpg */,
+				AC4115171F8350C9005F898A /* tangan.jpg */,
+				AC4115181F8350C9005F898A /* tengwangge.jpg */,
+				AC4115191F8350C9005F898A /* tianjin.jpg */,
+				AC41151A1F8350C9005F898A /* titian.jpg */,
+				AC41151B1F8350C9005F898A /* tulufan.jpg */,
+				AC41151C1F8350C9005F898A /* weinisi.jpg */,
+				AC41151D1F8350C9005F898A /* wengehua.jpg */,
+				AC41151E1F8350C9005F898A /* wudangsan.jpg */,
+				AC41151F1F8350C9005F898A /* wugongsan.jpg */,
+				AC4115201F8350C9005F898A /* wuhan.jpg */,
+				AC4115211F8350C9005F898A /* wulong.jpg */,
+				AC4115221F8350C9005F898A /* wulumuqi.jpeg */,
+				AC4115231F8350C9005F898A /* wulumuqi.jpg */,
+				AC4115241F8350C9005F898A /* wuyisan.jpg */,
+				AC4115251F8350C9005F898A /* wuzheng.jpg */,
+				AC4115261F8350C9005F898A /* xian.jpg */,
+				AC4115271F8350C9005F898A /* xianggang.jpg */,
+				AC4115281F8350C9005F898A /* xianggelila.jpg */,
+				AC4115291F8350C9005F898A /* xiangyang.jpg */,
+				AC41152A1F8350C9005F898A /* xiaweiyi.jpg */,
+				AC41152B1F8350C9005F898A /* xindeli.jpg */,
+				AC41152C1F8350C9005F898A /* xingjiapo.jpg */,
+				AC41152D1F8350C9005F898A /* xini.jpg */,
+				AC41152E1F8350C9005F898A /* xishuangbanna.jpg */,
+				AC41152F1F8350C9005F898A /* xiyatu.jpg */,
+				AC4115301F8350C9005F898A /* xuexiang.jpg */,
+				AC4115311F8350C9005F898A /* yadian.jpg */,
+				AC4115321F8350C9005F898A /* yalisanda.jpg */,
+				AC4115331F8350C9005F898A /* yaluzangpujiang.jpg */,
+				AC4115341F8350C9005F898A /* yangzhou.jpg */,
+				AC4115351F8350C9005F898A /* yingchuan.jpg */,
+				AC4115361F8350C9005F898A /* yuenan.jpg */,
+				AC4115371F8350C9005F898A /* yusandao.jpg */,
+				AC4115381F8350C9005F898A /* zhangjiajie.jpg */,
+				AC4115391F8350C9005F898A /* zhunyi.jpg */,
 			);
 			path = background;
 			sourceTree = "<group>";
 		};
-		AC4114681F826CA2005F898A /* ui */ = {
+		AC41153C1F8350C9005F898A /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				AC4114691F826CA2005F898A /* 0002_file.png */,
-				AC41146A1F826CA2005F898A /* 0005_bookmark-open.png */,
-				AC41146B1F826CA2005F898A /* 0007_date.png */,
-				AC41146C1F826CA2005F898A /* 120.png */,
-				AC41146D1F826CA2005F898A /* btn_close.png */,
-				AC41146E1F826CA2005F898A /* icon1.png */,
-				AC41146F1F826CA2005F898A /* icon2.png */,
-				AC4114701F826CA2005F898A /* kuang.png */,
-				AC4114711F826CA2005F898A /* loading.png */,
-				AC4114721F826CA2005F898A /* mountains.png */,
-				AC4114731F826CA2005F898A /* pengyouquan.png */,
-				AC4114741F826CA2005F898A /* preview.png */,
-				AC4114751F826CA2005F898A /* weixin.png */,
-			);
-			path = ui;
-			sourceTree = "<group>";
-		};
-		AC4114771F826CA3005F898A /* fonts */ = {
-			isa = PBXGroup;
-			children = (
-				AC4114781F826CA3005F898A /* 2.ttf */,
-				AC4114791F826CA3005F898A /* 3.otf */,
-				AC41147A1F826CA3005F898A /* 小汪.ttf */,
+				AC41153D1F8350C9005F898A /* 2.ttf */,
+				AC41153E1F8350C9005F898A /* 3.otf */,
+				AC41153F1F8350C9005F898A /* 小汪.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
 		};
-		AC41147B1F826CA3005F898A /* mottoback */ = {
+		AC4115401F8350C9005F898A /* mainimage */ = {
 			isa = PBXGroup;
 			children = (
-				AC41147C1F826CA3005F898A /* 1.jpg */,
-				AC41147D1F826CA3005F898A /* 2.jpg */,
-				AC41147E1F826CA3005F898A /* 3.jpg */,
-				AC41147F1F826CA3005F898A /* 4.jpg */,
-				AC4114801F826CA3005F898A /* 5.jpg */,
-				AC4114811F826CA3005F898A /* 6.jpg */,
-				AC4114821F826CA3005F898A /* 7.jpg */,
-				AC4114831F826CA3005F898A /* 8.jpg */,
-				AC4114841F826CA3005F898A /* 9.jpg */,
+				AC4115411F8350C9005F898A /* 0.png */,
+				AC4115421F8350C9005F898A /* 1.png */,
+				AC4115431F8350C9005F898A /* 2.png */,
+				AC4115441F8350C9005F898A /* 3.png */,
+				AC4115451F8350C9005F898A /* 4.png */,
+				AC4115461F8350C9005F898A /* 5.png */,
+				AC4115471F8350C9005F898A /* 6.png */,
+			);
+			path = mainimage;
+			sourceTree = "<group>";
+		};
+		AC41154A1F8350C9005F898A /* mottoback */ = {
+			isa = PBXGroup;
+			children = (
+				AC41154B1F8350C9005F898A /* 1.jpg */,
+				AC41154C1F8350C9005F898A /* 2.jpg */,
+				AC41154D1F8350C9005F898A /* 3.jpg */,
+				AC41154E1F8350C9005F898A /* 4.jpg */,
+				AC41154F1F8350C9005F898A /* 5.jpg */,
+				AC4115501F8350C9005F898A /* 6.jpg */,
+				AC4115511F8350C9005F898A /* 7.jpg */,
+				AC4115521F8350C9005F898A /* 8.jpg */,
+				AC4115531F8350C9005F898A /* 9.jpg */,
 			);
 			path = mottoback;
+			sourceTree = "<group>";
+		};
+		AC4115541F8350C9005F898A /* ui */ = {
+			isa = PBXGroup;
+			children = (
+				AC4115551F8350C9005F898A /* 0002_file.png */,
+				AC4115561F8350C9005F898A /* 0002_file@2x.png */,
+				AC4115571F8350C9005F898A /* 0005_bookmark-open.png */,
+				AC4115581F8350C9005F898A /* 0007_date.png */,
+				AC4115591F8350C9005F898A /* 120.png */,
+				AC41155A1F8350C9005F898A /* btn_close.png */,
+				AC41155B1F8350C9005F898A /* icon1.png */,
+				AC41155C1F8350C9005F898A /* icon2.png */,
+				AC41155D1F8350C9005F898A /* kuang.png */,
+				AC41155E1F8350C9005F898A /* loading.png */,
+				AC41155F1F8350C9005F898A /* mountains.png */,
+				AC4115601F8350C9005F898A /* pengyouquan.png */,
+				AC4115611F8350C9005F898A /* preview.png */,
+				AC4115621F8350C9005F898A /* weatherIcon */,
+				AC4115651F8350C9005F898A /* weixin.png */,
+			);
+			path = ui;
+			sourceTree = "<group>";
+		};
+		AC4115621F8350C9005F898A /* weatherIcon */ = {
+			isa = PBXGroup;
+			children = (
+				AC4115631F8350C9005F898A /* sunny.png */,
+				AC4115641F8350C9005F898A /* sunny@2x.png */,
+			);
+			path = weatherIcon;
 			sourceTree = "<group>";
 		};
 		ACFE206A1F813CB200E873F0 = {
@@ -522,8 +722,8 @@
 				ACFE20AA1F8141BC00E873F0 /* Views */,
 				ACFE20AC1F8141BC00E873F0 /* ViewModels */,
 				ACFE20A81F8141BB00E873F0 /* ViewControllers */,
-				ACFE20AB1F8141BC00E873F0 /* Resources */,
 				ACFE20B01F8146B500E873F0 /* libs */,
+				AC4114B21F8350C9005F898A /* Resources */,
 				ACFE20761F813CB200E873F0 /* AppDelegate.h */,
 				ACFE20771F813CB200E873F0 /* AppDelegate.m */,
 				ACFE207F1F813CB200E873F0 /* Assets.xcassets */,
@@ -583,24 +783,10 @@
 				AC4114891F826F64005F898A /* CustomTabBarController.m */,
 				AC41149F1F8287D8005F898A /* UIView+UIViewRoundCorners.h */,
 				AC4114A01F8287D8005F898A /* UIView+UIViewRoundCorners.m */,
+				AC4114AC1F834087005F898A /* MyTitleView.h */,
+				AC4114AD1F834087005F898A /* MyTitleView.m */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		ACFE20AB1F8141BC00E873F0 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				AC4113DF1F826CA2005F898A /* background */,
-				AC4114661F826CA2005F898A /* Default-568h.png */,
-				AC4113D61F826CA2005F898A /* Default-568h@2x.png */,
-				AC4114771F826CA3005F898A /* fonts */,
-				AC4113D71F826CA2005F898A /* mainimage */,
-				AC4114671F826CA2005F898A /* menu.plist */,
-				AC4114761F826CA3005F898A /* motto.plist */,
-				AC41147B1F826CA3005F898A /* mottoback */,
-				AC4114681F826CA2005F898A /* ui */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		ACFE20AC1F8141BC00E873F0 /* ViewModels */ = {
@@ -740,8 +926,175 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC4115851F83518D005F898A /* aersan.jpg in Resources */,
+				AC4115861F83518D005F898A /* agenting.jpg in Resources */,
+				AC4115871F83518D005F898A /* aomen.jpg in Resources */,
+				AC4115881F83518D005F898A /* bali.jpg in Resources */,
+				AC4115891F83518D005F898A /* bamei.jpg in Resources */,
+				AC41158A1F83518D005F898A /* beihai.jpg in Resources */,
+				AC41158B1F83518D005F898A /* beihaidao.jpg in Resources */,
+				AC41158C1F83518D005F898A /* beijing.jpg in Resources */,
+				AC41158D1F83518D005F898A /* budalagong.jpg in Resources */,
+				AC41158E1F83518D005F898A /* cangyuan.jpg in Resources */,
+				AC41158F1F83518D005F898A /* chengdu.jpg in Resources */,
+				AC4115901F83518D005F898A /* chongqing.jpg in Resources */,
+				AC4115911F83518D005F898A /* chunribu.jpg in Resources */,
+				AC4115921F83518D005F898A /* cixi.jpg in Resources */,
+				AC4115931F83518D005F898A /* daban.jpg in Resources */,
+				AC4115941F83518D005F898A /* dabaojiao.jpg in Resources */,
+				AC4115951F83518D005F898A /* dali.jpg in Resources */,
+				AC4115961F83518D005F898A /* daocheng.jpg in Resources */,
+				AC4115971F83518D005F898A /* dibai.jpg in Resources */,
+				AC4115981F83518D005F898A /* dongjidao.jpg in Resources */,
+				AC4115991F83518D005F898A /* dongjin.jpg in Resources */,
+				AC41159A1F83518D005F898A /* eguaduoer.jpg in Resources */,
+				AC41159B1F83518D005F898A /* emei.jpg in Resources */,
+				AC41159C1F83518D005F898A /* enshi.jpg in Resources */,
+				AC41159D1F83518D005F898A /* enshidaxiagu.jpg in Resources */,
+				AC41159E1F83518D005F898A /* fuhuojiedao.jpg in Resources */,
+				AC41159F1F83518D005F898A /* fusan.jpg in Resources */,
+				AC4115A01F83518D005F898A /* gana.jpg in Resources */,
+				AC4115A11F83518D005F898A /* guangzhou.jpg in Resources */,
+				AC4115A21F83518D005F898A /* haerbing.jpg in Resources */,
+				AC4115A31F83518D005F898A /* hangzhou.jpg in Resources */,
+				AC4115A41F83518D005F898A /* hemu.jpg in Resources */,
+				AC4115A51F83518D005F898A /* hengsan.jpg in Resources */,
+				AC4115A61F83518D005F898A /* huachengdun.jpg in Resources */,
+				AC4115A71F83518D005F898A /* huangjinghaian.jpg in Resources */,
+				AC4115A81F83518D005F898A /* huangsan.jpg in Resources */,
+				AC4115A91F83518D005F898A /* huaniaodao.jpg in Resources */,
+				AC4115AA1F83518D005F898A /* huhehaote.jpg in Resources */,
+				AC4115AB1F83518D005F898A /* hukoupubu.jpg in Resources */,
+				AC4115AC1F83518D005F898A /* jianqiao.jpg in Resources */,
+				AC4115AD1F83518D005F898A /* jinan.jpg in Resources */,
+				AC4115AE1F83518D005F898A /* jingdu.jpg in Resources */,
+				AC4115AF1F83518D005F898A /* jisha.jpg in Resources */,
+				AC4115B01F83518D005F898A /* jiujinsan.jpg in Resources */,
+				AC4115B11F83518D005F898A /* jiuzhaigou.jpg in Resources */,
+				AC4115B21F83518D005F898A /* jizhoudao.jpg in Resources */,
+				AC4115B31F83518D005F898A /* kaifeng.jpg in Resources */,
+				AC4115B41F83518D005F898A /* kailuo.jpg in Resources */,
+				AC4115B51F83518D005F898A /* kekexili.jpg in Resources */,
+				AC4115B61F83518D005F898A /* keluoladuo.jpg in Resources */,
+				AC4115B71F83518D005F898A /* kunming.jpg in Resources */,
+				AC4115B81F83518D005F898A /* lanzhou.jpg in Resources */,
+				AC4115B91F83518D005F898A /* lasa.jpg in Resources */,
+				AC4115BA1F83518D005F898A /* lasiweijiasi.jpg in Resources */,
+				AC4115BB1F83518D005F898A /* lijiang.jpg in Resources */,
+				AC4115BC1F83518D005F898A /* lijiang1.jpg in Resources */,
+				AC4115BD1F83518D005F898A /* liyuereneilu.jpg in Resources */,
+				AC4115BE1F83518D005F898A /* lundun.jpg in Resources */,
+				AC4115BF1F83518D005F898A /* luoma.jpg in Resources */,
+				AC4115C01F83518D005F898A /* luosanji.jpg in Resources */,
+				AC4115C11F83518D005F898A /* luoyang.jpg in Resources */,
+				AC4115C21F83518D005F898A /* madeli.jpg in Resources */,
+				AC4115C31F83518D005F898A /* maerdaifu.jpg in Resources */,
+				AC4115C41F83518D005F898A /* mahu.jpg in Resources */,
+				AC4115C51F83518D005F898A /* malaixiya.jpg in Resources */,
+				AC4115C61F83518D005F898A /* mangu.jpg in Resources */,
+				AC4115C71F83518D005F898A /* meiguo1.jpg in Resources */,
+				AC4115C81F83518D005F898A /* meizhoudao.jpg in Resources */,
+				AC4115C91F83518D005F898A /* mengmai.jpg in Resources */,
+				AC4115CA1F83518D005F898A /* milan.jpg in Resources */,
+				AC4115CB1F83518D005F898A /* moerben.jpg in Resources */,
+				AC4115CC1F83518D005F898A /* mogaoku.jpg in Resources */,
+				AC4115CD1F83518D005F898A /* mosike.jpg in Resources */,
+				AC4115CE1F83518D005F898A /* nanjing.jpg in Resources */,
+				AC4115CF1F83518D005F898A /* niboer.jpg in Resources */,
+				AC4115D01F83518D005F898A /* niuyue.jpg in Resources */,
+				AC4115D11F83518D005F898A /* pujidao.jpg in Resources */,
+				AC4115D21F83518D005F898A /* puluowangsi.jpg in Resources */,
+				AC4115D31F83518D005F898A /* qiantongguzheng.jpg in Resources */,
+				AC4115D41F83518D005F898A /* qingdao.jpg in Resources */,
+				AC4115D51F83518D005F898A /* qingmai.jpg in Resources */,
+				AC4115D61F83518D005F898A /* qinhuangdao.jpg in Resources */,
+				AC4115D71F83518D005F898A /* qizanggou.jpg in Resources */,
+				AC4115D81F83518D005F898A /* riben1.jpg in Resources */,
+				AC4115D91F83518D005F898A /* sanya.jpg in Resources */,
+				AC4115DA1F83518D005F898A /* seda.jpg in Resources */,
+				AC4115DB1F83518D005F898A /* seda1.jpg in Resources */,
+				AC4115DC1F83518D005F898A /* shanghai.jpg in Resources */,
+				AC4115DD1F83518D005F898A /* shanghai1.jpg in Resources */,
+				AC4115DE1F83518D005F898A /* shennongjia.jpg in Resources */,
+				AC4115DF1F83518D005F898A /* shenzhen.jpg in Resources */,
+				AC4115E01F83518D005F898A /* shouer.jpg in Resources */,
+				AC4115E11F83518D005F898A /* shunanzhuhai.jpg in Resources */,
+				AC4115E21F83518D005F898A /* sililanka.jpg in Resources */,
+				AC4115E31F83518D005F898A /* songsan.jpg in Resources */,
+				AC4115E41F83518D005F898A /* suzhou.jpg in Resources */,
+				AC4115E51F83518D005F898A /* taibei.jpg in Resources */,
+				AC4115E61F83518D005F898A /* taisan.jpg in Resources */,
+				AC4115E71F83518D005F898A /* tamendao.jpg in Resources */,
+				AC4115E81F83518D005F898A /* tangan.jpg in Resources */,
+				AC4115E91F83518D005F898A /* tengwangge.jpg in Resources */,
+				AC4115EA1F83518D005F898A /* tianjin.jpg in Resources */,
+				AC4115EB1F83518D005F898A /* titian.jpg in Resources */,
+				AC4115EC1F83518D005F898A /* tulufan.jpg in Resources */,
+				AC4115ED1F83518D005F898A /* weinisi.jpg in Resources */,
+				AC4115EE1F83518D005F898A /* wengehua.jpg in Resources */,
+				AC4115EF1F83518D005F898A /* wudangsan.jpg in Resources */,
+				AC4115F01F83518D005F898A /* wugongsan.jpg in Resources */,
+				AC4115F11F83518D005F898A /* wuhan.jpg in Resources */,
+				AC4115F21F83518D005F898A /* wulong.jpg in Resources */,
+				AC4115F31F83518D005F898A /* wulumuqi.jpeg in Resources */,
+				AC4115F41F83518D005F898A /* wulumuqi.jpg in Resources */,
+				AC4115F51F83518D005F898A /* wuyisan.jpg in Resources */,
+				AC4115F61F83518D005F898A /* wuzheng.jpg in Resources */,
+				AC4115F71F83518D005F898A /* xian.jpg in Resources */,
+				AC4115F81F83518D005F898A /* xianggang.jpg in Resources */,
+				AC4115F91F83518D005F898A /* xianggelila.jpg in Resources */,
+				AC4115FA1F83518D005F898A /* xiangyang.jpg in Resources */,
+				AC4115FB1F83518D005F898A /* xiaweiyi.jpg in Resources */,
+				AC4115FC1F83518D005F898A /* xindeli.jpg in Resources */,
+				AC4115FD1F83518D005F898A /* xingjiapo.jpg in Resources */,
+				AC4115FE1F83518D005F898A /* xini.jpg in Resources */,
+				AC4115FF1F83518D005F898A /* xishuangbanna.jpg in Resources */,
+				AC4116001F83518D005F898A /* xiyatu.jpg in Resources */,
+				AC4116011F83518D005F898A /* xuexiang.jpg in Resources */,
+				AC4116021F83518D005F898A /* yadian.jpg in Resources */,
+				AC4116031F83518D005F898A /* yalisanda.jpg in Resources */,
+				AC4116041F83518D005F898A /* yaluzangpujiang.jpg in Resources */,
+				AC4116051F83518D005F898A /* yangzhou.jpg in Resources */,
+				AC4116061F83518D005F898A /* yingchuan.jpg in Resources */,
+				AC4116071F83518D005F898A /* yuenan.jpg in Resources */,
+				AC4116081F83518D005F898A /* yusandao.jpg in Resources */,
+				AC4116091F83518D005F898A /* zhangjiajie.jpg in Resources */,
 				ACFE20831F813CB200E873F0 /* LaunchScreen.storyboard in Resources */,
 				ACFE20801F813CB200E873F0 /* Assets.xcassets in Resources */,
+				AC4115661F8350EB005F898A /* 0002_file.png in Resources */,
+				AC41157E1F835117005F898A /* 0.png in Resources */,
+				AC41157F1F835117005F898A /* 1.png in Resources */,
+				AC4115801F835117005F898A /* 2.png in Resources */,
+				AC4115811F835117005F898A /* 3.png in Resources */,
+				AC4115821F835117005F898A /* 4.png in Resources */,
+				AC4115831F835117005F898A /* 5.png in Resources */,
+				AC4115841F835117005F898A /* 6.png in Resources */,
+				AC4115671F8350EB005F898A /* 0002_file@2x.png in Resources */,
+				AC4115681F8350EB005F898A /* 0005_bookmark-open.png in Resources */,
+				AC4115691F8350EB005F898A /* 0007_date.png in Resources */,
+				AC41156A1F8350EB005F898A /* 120.png in Resources */,
+				AC4115751F83510E005F898A /* 1.jpg in Resources */,
+				AC4115761F83510E005F898A /* 2.jpg in Resources */,
+				AC4115771F83510E005F898A /* 3.jpg in Resources */,
+				AC4115781F83510E005F898A /* 4.jpg in Resources */,
+				AC4115791F83510E005F898A /* 5.jpg in Resources */,
+				AC41160A1F83523B005F898A /* 2.ttf in Resources */,
+				AC41160B1F83523B005F898A /* 3.otf in Resources */,
+				AC41160C1F83523B005F898A /* 小汪.ttf in Resources */,
+				AC41157A1F83510E005F898A /* 6.jpg in Resources */,
+				AC41157B1F83510E005F898A /* 7.jpg in Resources */,
+				AC41157C1F83510E005F898A /* 8.jpg in Resources */,
+				AC41157D1F83510E005F898A /* 9.jpg in Resources */,
+				AC41156B1F8350EB005F898A /* btn_close.png in Resources */,
+				AC41156C1F8350EB005F898A /* icon1.png in Resources */,
+				AC41156D1F8350EB005F898A /* icon2.png in Resources */,
+				AC41156E1F8350EB005F898A /* kuang.png in Resources */,
+				AC41156F1F8350EB005F898A /* loading.png in Resources */,
+				AC4115701F8350EB005F898A /* mountains.png in Resources */,
+				AC4115711F8350EB005F898A /* pengyouquan.png in Resources */,
+				AC4115721F8350EB005F898A /* preview.png in Resources */,
+				AC4115731F835101005F898A /* sunny.png in Resources */,
+				AC4115741F835101005F898A /* sunny@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -766,6 +1119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC4114AE1F834087005F898A /* MyTitleView.m in Sources */,
 				AC4114A41F828E8F005F898A /* MyCities.m in Sources */,
 				ACFE207B1F813CB200E873F0 /* BaseViewController.m in Sources */,
 				ACFE20861F813CB200E873F0 /* main.m in Sources */,

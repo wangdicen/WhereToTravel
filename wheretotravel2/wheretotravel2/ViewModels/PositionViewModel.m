@@ -38,14 +38,16 @@ SingleM(PositionViewModel);
 //threecoupleview
 - (void)setThreeCoupleViewCotrollerSubviewsPosition
 {
-    
-    NSLog(@"%@",[DeviceJuage getDeviceName]);
     if ([[DeviceJuage getDeviceName] isEqualToString:@"iPhone_X"]) {
         [_threeCoupleViewDictionary setObject:[self setPositionWithX:EDGE_NUM+10 Y:EDGE_NUM + 40 W:SCREEN_WEIGHT - EDGE_NUM*2 - 20 H:SCREEN_HEIGHT -EDGE_NUM*2 - 40 CX:SCREEN_WEIGHT/2.0 CY:SCREEN_HEIGHT/2.0 + 15] forKey:UI_THREECOUPLEVIEW_BACKGROUND];
     }
     else{
         [_threeCoupleViewDictionary setObject:[self setPositionWithX:EDGE_NUM Y:EDGE_NUM W:SCREEN_WEIGHT - EDGE_NUM*2 H:SCREEN_HEIGHT -EDGE_NUM*2 CX:SCREEN_WEIGHT/2.0 CY:SCREEN_HEIGHT/2.0] forKey:UI_THREECOUPLEVIEW_BACKGROUND];
     }
+    
+    [_threeCoupleViewDictionary setObject:[self setPositionWithX:0 Y:0 W:SCREEN_WEIGHT -EDGE_NUM*2 H:SCREEN_HEIGHT/10.0 CX:SCREEN_WEIGHT/2.0 - EDGE_NUM CY:SCREEN_HEIGHT/20.0] forKey:UI_THREECOUPLEVIEW_TITLEVIEW];
+    [_threeCoupleViewDictionary setObject:[self setPositionWithX:0 Y:0 W:SCREEN_WEIGHT - EDGE_NUM*2.0 H:SCREEN_HEIGHT -EDGE_NUM*2 CX:SCREEN_WEIGHT/2.0 CY:SCREEN_HEIGHT/2.0] forKey:UI_THREECOUPLEVIEW_SCROLLVIEW];
+    
 }
 
 

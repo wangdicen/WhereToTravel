@@ -10,4 +10,6 @@
 #import "Header.h"
 @interface ThreeCoupleViewController : UIViewController
 
+@property (nonatomic,strong) NSString *cityName;
+
 @end

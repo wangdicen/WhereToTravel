@@ -13,6 +13,8 @@
     UIScrollView *_scroll;
     
     NSMutableArray *_threeCoupleViewArray;
+    
+    __strong ThreeCoupleViewController *_tcvc;
 }
 @end
 
@@ -48,11 +50,18 @@
     _threeCoupleViewArray = nil;
     
     for (int i = 0; i < [cities count]; i++) {
-        ThreeCoupleViewController *tcvc = [[ThreeCoupleViewController alloc] init];
-        [_scroll addSubview:tcvc.view];
-        tcvc.view.center = CGPointMake(SCREEN_WEIGHT * (i + 0.5), SCREEN_HEIGHT * 0.5);
-        [_threeCoupleViewArray addObject:tcvc];
+        _tcvc = [[ThreeCoupleViewController alloc] init];
+        [_scroll addSubview:_tcvc.view];
+        _tcvc.cityName = [cities objectAtIndex:i];
+        [UIViewModel displayOnController:self ContentController:_tcvc withFrame:CGRectMake(SCREEN_WEIGHT * i, 0, SCREEN_WEIGHT, SCREEN_HEIGHT)];
     }
+}
+
+
+
+- (void)dealloc
+{
+    
 }
 
 - (void)didReceiveMemoryWarning {

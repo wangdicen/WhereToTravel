@@ -14,7 +14,7 @@
 #define SCREEN_HEIGHT  [UIScreen mainScreen].bounds.size.height
 #define RGB(a,b,c,d)     [UIColor colorWithRed:a/255.0 green:b/255.0 blue:c/255.0 alpha:d]
 #define EDGE_NUM 3.0
-
+#define IMAGE(a) [UIImage imageNamed:a]
 
 //**************  MVVM  *******************
 #ifdef __OBJC__
@@ -31,6 +31,7 @@
 //View
 #import "UIView+UIViewRoundCorners.h"
 #import "CustomTabBarController.h"
+#import "MyTitleView.h"
 
 //ViewController
 #import "ThreeCoupleViewController.h"
@@ -47,5 +48,9 @@
 
 //three couplev iew
 #define UI_THREECOUPLEVIEW_BACKGROUND @"ui_threecoupleview_background"
+#define UI_THREECOUPLEVIEW_TITLEVIEW @"ui_threecoupleview_titleview"
+#define UI_THREECOUPLEVIEW_SCROLLVIEW @"ui_threecoupleview_scrollview"
+
+
 
 #endif /* Header_h */

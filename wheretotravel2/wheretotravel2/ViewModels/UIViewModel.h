@@ -21,5 +21,18 @@
                        OnFather:(id)father;
 
 
+//对于重写过initframe的控件使用。
++ (id)addViewWithFrameWithString:(NSString *)string
+              InPostion:(WDCPostion *)position
+               OnFather:(id)father;
 
+//在一个控制器中加入另一个子控制器
++ (void) displayOnController:(UIViewController *)controller
+           ContentController: (UIViewController*) content
+                   withFrame:(CGRect)frame;
+
+//scroll滚动时隐藏上方导航
++ (void)showOrHideNavWithTitleView:(UIView *)title
+                        scrollView:(UIScrollView *)scroll
+                    contentSizeOff:(float)contentsizeof;
 @end
